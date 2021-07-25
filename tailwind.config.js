@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         primary: '"DM Sans", san-serif',
       },
+      borderWidth: {
+        thin: "0.399px",
+      },
     },
   },
   variants: {

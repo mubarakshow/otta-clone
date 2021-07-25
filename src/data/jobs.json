@@ -1,822 +1,842 @@
 [
   {
-    "companyName": "Schuster - Abshire",
-    "logo": "https://placeimg.com/80/80/animals?22235",
-    "description": "Dolores neque placeat ducimus debitis.",
-    "location": "Cronashire",
-    "companyMission": "Aliquam architecto et cupiditate aut a. Sed non doloremque porro blanditiis ipsam blanditiis. Voluptatem animi illo. Magnam iste unde. Id qui ad aliquid qui.",
-    "technologiesUsed": [
-      "Node.js",
-      "Node.js",
-      "Vue",
+    "jobTitle": "Frontend Engineer",
+    "jobTechnologiesUsed": [
       "React",
-      "Jenkins",
-      "Docker"
-    ],
-    "glassdoorRating": 3,
-    "requirements": "Hic quas dolorum aut voluptatem quas officia libero.",
-    "experienceLevel": "Junior",
-    "benefits": "Qui quis cumque sit fugiat neque saepe ut. Voluptatibus cum sequi vitae eveniet tempore architecto. Molestiae et nemo quaerat dolore sunt et. Qui quis ab libero sed. Omnis aut et mollitia id non qui. Explicabo molestias quia dignissimos.\n \rNulla sed dolorem molestias qui dolorum. Dolore aperiam libero quibusdam in cumque rem sequi temporibus temporibus. Molestiae sint fugiat fugiat veritatis quisquam. Ipsum dolores aut distinctio dicta nisi aut. Quo facere neque alias iure dolor dolor et aspernatur vero. Quo sed voluptatem dolore non.\n \rEnim nihil ab reiciendis at fuga rerum. Vero placeat iste voluptatem fugiat nulla reprehenderit nam molestias. Nulla nostrum expedita aut vero esse. Corporis maxime provident qui. Harum illum odit ipsam necessitatibus eum fugit et. Est dolores itaque voluptas voluptatem voluptatem repudiandae et eaque ea.",
-    "funding": "257.14",
-    "investors": [
-      "Index Ventures",
-      "Amadeus Capital",
-      "Triple Point Ventures"
-    ],
-    "jobInvolves": "Esse quasi ipsam ut debitis aut cumque deleniti deleniti.\nLabore aperiam repellat exercitationem consequatur voluptas commodi atque et quia.",
-    "founders": [
-      {
-        "name": "Perry Rempel",
-        "job": "Principal Group Facilitator"
-      },
-      {
-        "name": "Guadalupe Collins",
-        "job": "Global Infrastructure Administrator"
-      }
-    ],
-    "articles": [
-      "https://ciara.name",
-      "https://adonis.info",
-      "https://clemens.net"
-    ]
-  },
-  {
-    "companyName": "Corkery and Sons",
-    "logo": "https://placeimg.com/80/80/animals?2984",
-    "description": "Quia necessitatibus harum voluptatem nulla.",
-    "location": "New Hazle",
-    "companyMission": "Autem nemo doloribus quam provident omnis. Placeat qui nisi. Quas ab nobis laborum dolorem consequatur animi quis voluptatem. Cupiditate vitae voluptate ducimus a.",
-    "technologiesUsed": [
-      "C#",
-      "Kubernetes",
-      "Kubernetes",
-      "Terraform",
-      "Angular",
-      "Kubernetes"
-    ],
-    "glassdoorRating": 4,
-    "requirements": "Veniam nesciunt necessitatibus tenetur officiis qui animi error pariatur.\nProvident ut unde.",
-    "experienceLevel": "Junior",
-    "benefits": "Dolor incidunt illum rem suscipit fuga qui doloribus. Non ut rerum ipsam dolor unde. Doloribus nobis quia esse et est totam dolorum voluptatem.\n \rUt nesciunt beatae occaecati omnis sunt non quidem. Quis ut sequi qui. Minima expedita fuga doloribus et ut consequuntur. Est tenetur id iste dolores quasi at omnis ipsa. Eum est beatae voluptatem eos illo dignissimos. Ex placeat vero similique dolores aliquid non eum est adipisci.\n \rSint aut dignissimos in. Aperiam consequatur molestiae iure. Excepturi facere cumque qui voluptate repudiandae nostrum assumenda. Sit sit distinctio. Quas dolorum tempora velit sed neque et. Sint iusto quisquam ipsa adipisci quisquam et fugiat et.",
-    "funding": "275.46",
-    "investors": [
-      "Data Point Capital",
-      "Oxford Foundry",
-      "Binomial Ventures"
-    ],
-    "jobInvolves": "Inventore aut ad ut dolorem.\nVitae corrupti omnis esse voluptatem.\nSed aut tempore nam voluptatum.",
-    "founders": [
-      {
-        "name": "Regina Brakus",
-        "job": "Global Research Facilitator"
-      },
-      {
-        "name": "Ivan Altenwerth",
-        "job": "Lead Directives Director"
-      }
-    ],
-    "articles": [
-      "http://elena.com",
-      "https://layla.org",
-      "https://lonny.biz"
-    ]
-  },
-  {
-    "companyName": "Marvin - Yundt",
-    "logo": "https://placeimg.com/80/80/animals?53418",
-    "description": "Facilis ipsam debitis quasi numquam et dolor.",
-    "location": "Billings",
-    "companyMission": "Sapiente qui consequatur consequatur. Quisquam temporibus incidunt ducimus dolorem illo. Aspernatur praesentium id. Non distinctio omnis voluptatem. Nulla quos rerum alias dolorem atque non.",
-    "technologiesUsed": [
       "AWS",
-      "Terraform",
-      "Terraform",
       "React",
-      "Angular",
+      "AWS",
+      "Kubernetes",
       "Kubernetes"
     ],
-    "glassdoorRating": 4,
-    "requirements": "At nostrum ut.\nNam accusantium et quae et aut vero.\nReprehenderit et beatae unde provident quo illum.\nPossimus voluptas et a debitis repudiandae sint ducimus veniam autem.",
-    "experienceLevel": "Senior",
-    "benefits": "Quam odio deleniti et ut autem ipsum ut. Quia qui cumque deleniti. Veritatis libero qui eligendi. Sunt quae et assumenda.\n \rVoluptas maiores voluptatibus ea. Quam labore nihil aut architecto soluta laboriosam. Quia fugit voluptate repellat.\n \rRepellendus quia saepe omnis dolor blanditiis repellendus ea et. Voluptate autem fugiat dolore ut voluptas sunt odio voluptas delectus. Voluptates perferendis et esse quos voluptatum est veniam reprehenderit quaerat. Quidem cupiditate sunt harum sed et doloremque asperiores distinctio eos.",
-    "funding": "479.31",
-    "investors": [
-      "Octopus Ventures",
-      "Speed Invest",
+    "jobRequirements": "Cum culpa vel et commodi non veritatis amet et magnam.",
+    "jobExperienceLevel": "Mid",
+    "jobInvolves": "Voluptate ut laudantium rerum error voluptatem blanditiis totam.\nReprehenderit ad ducimus id dignissimos asperiores earum quo.\nOmnis voluptatem at.\nNon velit quia ad qui qui cupiditate delectus animi at.",
+    "companyLogo": "https://placeimg.com/80/80/animals?2786",
+    "companyName": "Zboncak - Gerhold",
+    "companyDescription": "Et nulla qui ab quod magni doloribus error.",
+    "companyLocation": "Lake Erikafort",
+    "companyMission": "Velit repudiandae eveniet doloremque consequuntur qui facilis voluptatem minus. Blanditiis qui iste numquam dolor dolorem. Et placeat rerum pariatur nam provident delectus asperiores aliquam. Pariatur iusto voluptas. Qui similique harum ratione tenetur. Sit aut ipsam aut quia error unde similique cupiditate autem.",
+    "companyGlassdoorRating": 2,
+    "companyBenefits": "Sed ea sunt voluptatem atque omnis ipsam qui. Rem eligendi quisquam officia velit consequatur veniam voluptas quaerat illo. Eos dolor aut.\n \rAb libero velit ipsam corrupti dolores consequatur consequatur. Ipsum veritatis corporis quia sint. Eveniet dolores quisquam rem qui maiores recusandae sapiente perspiciatis. Labore ducimus veniam quisquam. Commodi beatae omnis ut exercitationem aliquam beatae. Labore voluptas illum voluptates est voluptas.\n \rDolores id voluptates nostrum qui. Et dolore velit perferendis temporibus mollitia. Illum nostrum excepturi voluptatem et voluptas est magni. Atque molestias facilis veritatis qui beatae.",
+    "companyFunding": "237.85",
+    "companyInvestors": [
+      "Amadeus Capital",
+      "GV",
       "Index Ventures"
     ],
-    "jobInvolves": "Dignissimos dolores perspiciatis ipsa nostrum cum error sed excepturi eius.\nCum atque aut.",
-    "founders": [
+    "companyFounders": [
       {
-        "name": "Lewis Hyatt",
-        "job": "Dynamic Optimization Strategist"
+        "name": "Phyllis Koelpin",
+        "job": "International Program Analyst"
       },
       {
-        "name": "Karla Gibson",
-        "job": "Customer Tactics Liaison"
+        "name": "Ismael Tillman Sr.",
+        "job": "Forward Implementation Director"
       }
     ],
-    "articles": [
-      "http://lemuel.org",
-      "https://quinn.info",
-      "http://noah.com"
+    "companyArticles": [
+      "http://landen.biz",
+      "https://kelsie.net",
+      "https://doyle.net"
     ]
   },
   {
-    "companyName": "Leannon, Willms and Hayes",
-    "logo": "https://placeimg.com/80/80/animals?76171",
-    "description": "Non eaque veniam numquam.",
-    "location": "Lake Emilie",
-    "companyMission": "Veniam aut incidunt facilis facilis placeat explicabo et dignissimos. Sit non molestias deserunt unde nihil debitis neque. Labore dignissimos soluta qui rerum quae nostrum ducimus ut ut. Libero optio exercitationem in aliquid et odio ipsum laudantium.",
-    "technologiesUsed": [
+    "jobTitle": "Sowftware Engineer",
+    "jobTechnologiesUsed": [
       "Terraform",
-      "Jenkins",
-      "Terraform",
-      "Node.js",
+      "Kubernetes",
+      "Kubernetes",
       "Docker",
-      "React"
-    ],
-    "glassdoorRating": 5,
-    "requirements": "Natus et quaerat.",
-    "experienceLevel": "Entry",
-    "benefits": "Dolores at itaque dolorem rerum id occaecati voluptas quia. Vel asperiores aut. Voluptatem quaerat eius vero natus facilis provident. Repellat qui et minima nihil in sunt et animi. Et nesciunt voluptatem.\n \rSed omnis reiciendis qui. Temporibus et quas eos quis placeat. Illum quae ea nihil.\n \rVel aspernatur sit ipsum. Adipisci dolores eos et omnis. Eos iure aut. Maiores et eum ut delectus natus quo veniam voluptas corporis. Harum quasi quae dignissimos deserunt. Voluptatem architecto molestiae assumenda.",
-    "funding": "306.83",
-    "investors": [
-      "Y Combinator",
-      "Y Combinator",
-      "Binomial Ventures"
-    ],
-    "jobInvolves": "Non libero voluptates.",
-    "founders": [
-      {
-        "name": "Percy Hane",
-        "job": "Direct Factors Liaison"
-      },
-      {
-        "name": "Marguerite O'Kon",
-        "job": "National Division Liaison"
-      }
-    ],
-    "articles": [
-      "https://clement.info",
-      "https://libbie.info",
-      "http://brown.org"
-    ]
-  },
-  {
-    "companyName": "Treutel - Nikolaus",
-    "logo": "https://placeimg.com/80/80/animals?69539",
-    "description": "Similique quis accusantium itaque.",
-    "location": "West Linnieton",
-    "companyMission": "Quia doloremque dolore. Est officia et consectetur nobis laboriosam deserunt. Dolores est pariatur dolorem cupiditate porro sit. Accusamus enim possimus voluptatem. Tempore ratione voluptates.",
-    "technologiesUsed": [
-      "React",
-      "Terraform",
-      "Node.js",
-      "Jenkins",
-      "Terraform",
+      "Kubernetes",
       "Node.js"
     ],
-    "glassdoorRating": 3,
-    "requirements": "Animi occaecati ratione esse dolorem aliquam amet rerum assumenda.\nNeque dignissimos praesentium saepe recusandae est.\nConsequatur fugit aliquid distinctio officiis tempore cum.\nNon asperiores doloremque.\nPorro id repellendus tempora provident itaque quia.",
-    "experienceLevel": "Senior",
-    "benefits": "Nesciunt culpa atque repellat. Non repellendus voluptatem. Odio animi placeat.\n \rDoloribus qui velit ea fugit. Et incidunt earum voluptatum dolorem nihil rerum est dolorem odio. Fugiat tempore eligendi alias optio fuga quia sed quos. Dolor neque consequatur. Alias maiores sunt neque error ea. Consequuntur accusamus id natus non omnis voluptatem tempore suscipit.\n \rMaiores sapiente quaerat officiis assumenda nihil sapiente sint. Expedita beatae quia id fugiat distinctio aut recusandae. Repellendus sint qui consequatur doloribus. Consequatur modi aut aliquam. Odit odit mollitia nulla aut culpa. Porro placeat dolores et.",
-    "funding": "836.83",
-    "investors": [
+    "jobRequirements": "Sed quis quisquam error non dolores.\nIllum sed distinctio corrupti et id molestias aliquid porro aut.\nSed quis beatae saepe qui in fugiat et.",
+    "jobExperienceLevel": "Senior",
+    "jobInvolves": "Omnis a deserunt.\nMolestiae aut vel placeat sint officiis qui enim voluptatem qui.\nDolorem quis enim velit quia.\nAsperiores nobis ipsum.",
+    "companyLogo": "https://placeimg.com/80/80/animals?25229",
+    "companyName": "West and Sons",
+    "companyDescription": "Culpa aut earum delectus blanditiis delectus doloremque omnis.",
+    "companyLocation": "West Taureanborough",
+    "companyMission": "Et occaecati veniam. Ex quis corrupti ratione iure natus dolor. Aliquam autem qui tenetur voluptatum aperiam nobis nostrum. Quibusdam vel molestias. Explicabo commodi minima non quaerat ab fuga. Est repellat omnis ut aut.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Ut nihil doloremque sequi et consequatur. Voluptatem minus ea non recusandae omnis quo. Ab amet illum consequatur. Molestiae vel atque nihil non.\n \rQui non ratione tempora eos et eum. Exercitationem perferendis magni. Sed quidem adipisci vel atque quis quia.\n \rSuscipit voluptatibus voluptas voluptatum fuga iusto repellat voluptatum tempora alias. Aperiam impedit libero doloremque aliquid quas. Nihil soluta tempora voluptatem nam eum. Unde officia impedit perferendis praesentium et aut explicabo. Vero quo quaerat vitae est qui ut quasi. Provident id aspernatur.",
+    "companyFunding": "412.20",
+    "companyInvestors": [
+      "IFG.VC",
+      "Oxford Foundry",
+      "Y Combinator"
+    ],
+    "companyFounders": [
+      {
+        "name": "Anita Schowalter",
+        "job": "Investor Configuration Strategist"
+      },
+      {
+        "name": "Mrs. Harry Barrows",
+        "job": "Regional Implementation Administrator"
+      }
+    ],
+    "companyArticles": [
+      "http://araceli.biz",
+      "http://milford.biz",
+      "http://abner.name"
+    ]
+  },
+  {
+    "jobTitle": "Frontend React Developer",
+    "jobTechnologiesUsed": [
+      "Jenkins",
+      "C#",
+      "C#",
+      "Java",
+      "Docker",
+      "Terraform"
+    ],
+    "jobRequirements": "Minus est quisquam et vero quia voluptatem est porro.\nCumque mollitia sint beatae.",
+    "jobExperienceLevel": "Entry",
+    "jobInvolves": "Sed veritatis aut dolor nostrum expedita.\nDoloremque et ut voluptatem.",
+    "companyLogo": "https://placeimg.com/80/80/animals?45249",
+    "companyName": "Bosco - Baumbach",
+    "companyDescription": "Magnam omnis et explicabo facere quo cupiditate.",
+    "companyLocation": "Boyerberg",
+    "companyMission": "Fugit at quisquam ea natus deserunt sit quo. Voluptas adipisci sint vel dolorem porro. Expedita reiciendis ut esse quia fugiat culpa. Quibusdam occaecati quam commodi voluptate at sed itaque.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Reiciendis ut fugit aut aperiam. Est aliquam vel vel sapiente aut in omnis eum. Officia qui voluptatem vel autem quis dolores est. Quaerat omnis nobis repellendus quia. Dolores quos harum quis et dolorem minus recusandae dolores autem. Labore suscipit dolores incidunt ipsa sunt esse.\n \rIpsum eos sequi enim qui eligendi voluptate. Provident commodi iusto eligendi qui vero nulla. Velit tenetur ea cum eligendi.\n \rNeque occaecati porro similique itaque accusamus. Ex dolor aliquam. Architecto eligendi fugit facilis eos harum sunt. Explicabo debitis vero magnam qui rerum dicta nesciunt. Porro magnam sint natus facere omnis iste tempore.",
+    "companyFunding": "197.54",
+    "companyInvestors": [
+      "Triple Point Ventures",
+      "Amadeus Capital",
+      "GV"
+    ],
+    "companyFounders": [
+      {
+        "name": "Marian Bosco",
+        "job": "Forward Program Technician"
+      },
+      {
+        "name": "Barbara Hermiston",
+        "job": "Global Accountability Officer"
+      }
+    ],
+    "companyArticles": [
+      "https://hertha.name",
+      "https://eleanore.name",
+      "https://nina.info"
+    ]
+  },
+  {
+    "jobTitle": "Frontend Developer (Vue)",
+    "jobTechnologiesUsed": [
+      "Jenkins",
+      "C#",
+      "Kubernetes",
+      "AWS",
+      "C#",
+      "Docker"
+    ],
+    "jobRequirements": "Totam at et dolores.\nLabore numquam iste.\nEa quis dolores laudantium qui distinctio occaecati omnis.\nId veniam molestias enim commodi sapiente beatae corporis enim.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Sit ut reiciendis cumque praesentium maiores et cum.\nQuia a non facilis et similique pariatur molestiae sit.",
+    "companyLogo": "https://placeimg.com/80/80/animals?48298",
+    "companyName": "Raynor, Padberg and Watsica",
+    "companyDescription": "Iusto quisquam praesentium in.",
+    "companyLocation": "Kubberg",
+    "companyMission": "Iure sequi et consequatur perspiciatis aut. Sint iste ut voluptatem magni. Sunt quod libero ipsam quam cupiditate quibusdam minus voluptate voluptatem. Natus rerum doloremque nihil aspernatur nobis aut omnis quia.",
+    "companyGlassdoorRating": 1,
+    "companyBenefits": "Voluptate voluptate molestiae. Sunt doloremque dolorem natus molestias sint vitae. Ratione et ab quia. Expedita minima nisi non aut id cupiditate mollitia.\n \rAlias et et. Omnis est consequuntur ut rerum ea perferendis quasi. Nihil vel id qui soluta. Sed aliquam ullam necessitatibus natus accusantium tempore rerum doloremque.\n \rId sequi velit magni harum praesentium. Sapiente culpa atque et officia commodi. Odit blanditiis consequuntur. Est praesentium voluptatem dolor reprehenderit neque saepe totam quis.",
+    "companyFunding": "9.88",
+    "companyInvestors": [
+      "Index Ventures",
+      "GV",
+      "Binomial Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Paul Rohan",
+        "job": "Customer Applications Developer"
+      },
+      {
+        "name": "Gina Kulas",
+        "job": "Customer Creative Technician"
+      }
+    ],
+    "companyArticles": [
+      "https://brendon.info",
+      "http://marion.info",
+      "https://bruce.biz"
+    ]
+  },
+  {
+    "jobTitle": "Frontend Engineer",
+    "jobTechnologiesUsed": [
+      "Terraform",
+      "Kubernetes",
+      "Java",
+      "Kubernetes",
+      "Jenkins",
+      "Node.js"
+    ],
+    "jobRequirements": "Aut exercitationem neque.\nRatione placeat minima quis delectus dolor repellat.\nOmnis sapiente qui magnam dolorum rerum ad earum eveniet amet.",
+    "jobExperienceLevel": "Entry",
+    "jobInvolves": "Consequuntur est velit itaque maiores.\nBeatae aliquid minima aliquid.\nConsequatur eum harum saepe est eum magnam.",
+    "companyLogo": "https://placeimg.com/80/80/animals?77820",
+    "companyName": "Schmeler - Windler",
+    "companyDescription": "Qui praesentium consequuntur architecto est est dicta qui distinctio architecto.",
+    "companyLocation": "Lake Fletcher",
+    "companyMission": "Error explicabo voluptates et facilis. Harum aut velit dolorum repudiandae incidunt recusandae eum qui. Et aspernatur dolorem nihil odio molestias qui. Repudiandae libero quo aut ipsam.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Qui temporibus modi. Omnis omnis perspiciatis cum rerum quod sit odit. Autem error aspernatur. Qui doloribus numquam officiis sed saepe esse. Commodi velit repellat illum harum quae autem id.\n \rEius nam quis qui impedit corporis in. Sit molestias doloribus voluptatem doloribus eius vel sint occaecati. Debitis eum quia dicta et voluptatem. Voluptatem tempora est nemo veniam ipsum quia dolores et sunt.\n \rVoluptates qui in qui quos omnis ullam quo esse praesentium. Ullam dolores rerum eligendi architecto ex. Praesentium nulla debitis officia quod. Ea mollitia ab possimus ullam.",
+    "companyFunding": "936.52",
+    "companyInvestors": [
+      "Data Point Capital",
+      "GV",
+      "Hoxton Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Toni Parisian",
+        "job": "Corporate Marketing Designer"
+      },
+      {
+        "name": "Rosie Murazik",
+        "job": "Human Program Coordinator"
+      }
+    ],
+    "companyArticles": [
+      "https://francis.net",
+      "https://jade.net",
+      "http://eldora.org"
+    ]
+  },
+  {
+    "jobTitle": "Frontend Engineer",
+    "jobTechnologiesUsed": [
+      "C#",
+      "React",
+      "Docker",
+      "Angular",
+      "AWS",
+      "AWS"
+    ],
+    "jobRequirements": "Quia excepturi molestias nostrum aut possimus tenetur molestias aut nihil.\nOfficiis impedit totam minus qui ea qui id fugit quia.\nDolores odit pariatur voluptatum id quae repellendus quisquam.\nSit amet molestiae.\nQuae atque autem consectetur vel sit porro quia nemo.",
+    "jobExperienceLevel": "Entry",
+    "jobInvolves": "Commodi commodi a eligendi dolores commodi ea quia doloribus.\nQui modi ex architecto sunt debitis architecto.\nQui impedit accusamus sunt distinctio assumenda.",
+    "companyLogo": "https://placeimg.com/80/80/animals?34965",
+    "companyName": "Beatty, Wolff and Hettinger",
+    "companyDescription": "Doloremque cupiditate vel fugiat eius aspernatur repudiandae ut totam facere.",
+    "companyLocation": "Crooksmouth",
+    "companyMission": "Aut illum quibusdam veritatis unde exercitationem. Ipsum consequatur aut eum earum debitis optio. Possimus illo labore voluptates minus quisquam alias non.",
+    "companyGlassdoorRating": 5,
+    "companyBenefits": "Blanditiis illo architecto voluptatum ea molestiae illo id voluptatem. Quisquam quis sequi ut qui animi autem aut id. Labore vitae quas minus id.\n \rTempora ea aliquid accusamus quam quos. A illum cum odit est aut laborum enim. Dignissimos id nobis consequatur voluptas sit culpa fugit. Odio ut et repellendus ea voluptatem ut aut porro. Incidunt nihil non quam est perferendis.\n \rProvident voluptatum voluptas et sed nam qui hic aperiam quam. Consequatur consequatur in id in aut quasi et eos non. Aut voluptate doloremque atque nobis. Porro at voluptatem sed autem hic ad sequi.",
+    "companyFunding": "867.04",
+    "companyInvestors": [
+      "Amadeus Capital",
+      "IFG.VC",
+      "Hoxton Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Bertha Conn",
+        "job": "District Tactics Strategist"
+      },
+      {
+        "name": "Teresa Ebert",
+        "job": "Forward Configuration Specialist"
+      }
+    ],
+    "companyArticles": [
+      "http://louisa.name",
+      "http://lee.name",
+      "https://arlo.biz"
+    ]
+  },
+  {
+    "jobTitle": "Backend Developer",
+    "jobTechnologiesUsed": [
+      "Kubernetes",
+      "Kubernetes",
+      "Angular",
+      "Java",
+      "AWS",
+      "React"
+    ],
+    "jobRequirements": "Quas commodi sed et autem.\nAutem odio sit fugit et deleniti occaecati.\nAut officia saepe nulla.",
+    "jobExperienceLevel": "Expert",
+    "jobInvolves": "Perspiciatis rerum est voluptates eligendi eum.",
+    "companyLogo": "https://placeimg.com/80/80/animals?77050",
+    "companyName": "Von, Dibbert and O'Kon",
+    "companyDescription": "Modi tempora nihil quia accusamus cum voluptas earum quo velit.",
+    "companyLocation": "North Highlands",
+    "companyMission": "Rem ab quos quod. Iure sed sint nam molestiae ipsum esse dolorem dolores veritatis. Eum laboriosam cum voluptate aut. Dolores eius voluptatum repellendus aut explicabo voluptatem et ullam. Deserunt laborum sit recusandae consectetur mollitia et reiciendis.",
+    "companyGlassdoorRating": 3,
+    "companyBenefits": "Rem possimus non voluptate. Aut culpa voluptas quia voluptatibus. Blanditiis ut delectus totam aut debitis consequatur. Soluta dolor sequi. Porro aspernatur nihil aut omnis. Vel et voluptatem sunt aut id excepturi.\n \rDolor earum vero at sunt ipsam itaque voluptatum temporibus inventore. Voluptatem et non unde omnis perspiciatis molestias. Quidem aspernatur et in amet asperiores illo quo. Repudiandae consequatur eligendi in. Accusamus maiores aspernatur labore quisquam laudantium. Sapiente nihil nemo recusandae.\n \rDoloremque error tempora voluptatem voluptates veritatis blanditiis ut. Excepturi quia voluptatum. Dicta ipsum eveniet qui dolorem enim. Natus blanditiis ea corrupti hic eos cum a. Dolor voluptatem est quas eos officiis labore ipsa dicta modi. Sapiente commodi et consectetur aspernatur.",
+    "companyFunding": "833.02",
+    "companyInvestors": [
+      "Hoxton Ventures",
       "Octopus Ventures",
+      "Y Combinator"
+    ],
+    "companyFounders": [
+      {
+        "name": "Dr. Irene Crist",
+        "job": "Product Communications Analyst"
+      },
+      {
+        "name": "Mrs. Monica Hansen",
+        "job": "Legacy Research Assistant"
+      }
+    ],
+    "companyArticles": [
+      "http://joesph.name",
+      "https://fletcher.net",
+      "http://alexandra.org"
+    ]
+  },
+  {
+    "jobTitle": "Backend Developer",
+    "jobTechnologiesUsed": [
+      "Terraform",
+      "Angular",
+      "Kubernetes",
+      "Terraform",
+      "Node.js",
+      "AWS"
+    ],
+    "jobRequirements": "Quo laboriosam culpa.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Aut tempora aut qui rem laudantium.\nEt sunt magni ex veritatis omnis quis velit magnam.",
+    "companyLogo": "https://placeimg.com/80/80/animals?65447",
+    "companyName": "Dicki, Rice and West",
+    "companyDescription": "Eligendi repellat quia commodi nihil aut officiis ut esse.",
+    "companyLocation": "Lake Linaland",
+    "companyMission": "Non similique culpa est et nemo aperiam ut sequi. Et consequatur voluptatem ipsum. Nesciunt beatae voluptates eaque qui pariatur rem nihil. Et iure sunt adipisci voluptatum voluptatem voluptatum sit.",
+    "companyGlassdoorRating": 1,
+    "companyBenefits": "Aut quasi dolorem enim totam eos. Et delectus odit minus eum temporibus officiis id vel voluptatum. Aut accusantium nulla. Repellendus quos omnis atque voluptatem saepe distinctio fugit consequatur.\n \rVoluptas dicta et cumque. Et aut velit rem et sapiente fugiat dolorem voluptas. Aperiam beatae aut est dolores alias laboriosam provident. Et omnis consequatur vel non et.\n \rDolor vitae libero eius reprehenderit ut. Iusto cupiditate sint incidunt non. Doloribus quia velit illum et sit. Labore ut impedit quod dolor quas quis.",
+    "companyFunding": "43.22",
+    "companyInvestors": [
+      "Hoxton Ventures",
+      "Hoxton Ventures",
+      "Oxford Foundry"
+    ],
+    "companyFounders": [
+      {
+        "name": "Mindy Shanahan",
+        "job": "Legacy Marketing Orchestrator"
+      },
+      {
+        "name": "Eloise Doyle",
+        "job": "Future Mobility Officer"
+      }
+    ],
+    "companyArticles": [
+      "http://shanny.biz",
+      "https://cecil.org",
+      "https://keagan.org"
+    ]
+  },
+  {
+    "jobTitle": "Sowftware Engineer",
+    "jobTechnologiesUsed": [
+      "Docker",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Vue",
+      "Docker"
+    ],
+    "jobRequirements": "Voluptatem qui illo vel qui impedit eius distinctio.\nQuaerat aut optio dolores alias.\nIste laborum ut sequi debitis rerum quas eaque ex quo.\nEx officiis distinctio id enim ut temporibus sapiente ipsum qui.\nOfficia molestiae consequatur velit qui veniam impedit est voluptas delectus.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Ducimus perspiciatis ea aliquam.\nAspernatur qui porro doloremque in.\nEa voluptate repellat est tempore similique et vitae qui sit.\nLabore praesentium officiis harum dignissimos quis.",
+    "companyLogo": "https://placeimg.com/80/80/animals?68477",
+    "companyName": "Bahringer - Kihn",
+    "companyDescription": "Alias pariatur commodi delectus et aut quae.",
+    "companyLocation": "Franklin",
+    "companyMission": "Voluptatem quas quia omnis sed ex doloribus sint. Quas et veritatis magni accusamus sint adipisci molestiae aut. Eum doloremque dignissimos animi nostrum ipsum. Vel qui facere distinctio. Repellat aut error qui ullam dolorum quia magnam maiores. Vitae et dicta.",
+    "companyGlassdoorRating": 1,
+    "companyBenefits": "Fuga occaecati vitae aliquam alias ad ipsum. Quas molestiae voluptas at debitis consequatur. Quos sint iste quae beatae temporibus. Deleniti sint tempora rerum eveniet non voluptatibus. Aut id tempora et dolores.\n \rEx et rerum tempora aut. Non quibusdam sit. Expedita rerum suscipit tempore quia excepturi perspiciatis aspernatur deleniti in. Qui corporis impedit culpa quisquam. Quia earum animi porro impedit doloribus minus cupiditate.\n \rSoluta deleniti dolore ea. Omnis et harum asperiores in cum id. Magni vitae vel temporibus dolorum fuga non molestiae dignissimos. Molestias eveniet nobis velit mollitia esse. Doloribus dignissimos quae et et. Aliquam nulla in at aliquam harum est.",
+    "companyFunding": "53.86",
+    "companyInvestors": [
+      "Binomial Ventures",
+      "Octopus Ventures",
+      "Amadeus Capital"
+    ],
+    "companyFounders": [
+      {
+        "name": "Melba MacGyver",
+        "job": "Senior Creative Specialist"
+      },
+      {
+        "name": "Al Bradtke",
+        "job": "Internal Response Representative"
+      }
+    ],
+    "companyArticles": [
+      "http://matt.biz",
+      "https://terrence.com",
+      "https://tanner.net"
+    ]
+  },
+  {
+    "jobTitle": "Frontend Developer (Vue)",
+    "jobTechnologiesUsed": [
+      "Angular",
+      "Java",
+      "Vue",
+      "Docker",
+      "Java",
+      "React"
+    ],
+    "jobRequirements": "Qui neque nemo quisquam velit velit voluptates quia dolores eos.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Omnis ipsam similique vero nobis magnam.",
+    "companyLogo": "https://placeimg.com/80/80/animals?79692",
+    "companyName": "Pfeffer, Paucek and Larson",
+    "companyDescription": "Quas inventore at non et ea expedita.",
+    "companyLocation": "Pasqualeshire",
+    "companyMission": "Et ut inventore eos occaecati dolorem nobis laborum laudantium adipisci. Consequatur in quo. Incidunt recusandae porro illo maxime earum magni aut qui officia. Dolore sit voluptatem est optio eligendi labore vel minus dolorem. Autem sint laboriosam quia velit voluptate inventore modi commodi.",
+    "companyGlassdoorRating": 0,
+    "companyBenefits": "Consequatur sunt quod debitis quo molestiae. Officia autem voluptas et ut error. Voluptate sed eum ipsa qui.\n \rQuae nobis rem est perspiciatis. Illo ut et doloribus quo rerum. Et reprehenderit cumque harum sit ullam. Ea doloribus ratione consectetur in nesciunt a. Quae maiores quas voluptas delectus et nihil maxime nesciunt. Minima deserunt quidem quia suscipit dignissimos aut.\n \rExercitationem nostrum nihil quibusdam laboriosam quasi ducimus laboriosam. Rerum voluptatem voluptatibus vitae recusandae pariatur aut similique sapiente. Non nam eum. Sit illum harum. Eveniet veniam commodi ut tenetur. Quae hic at aut sed alias illum reiciendis.",
+    "companyFunding": "879.33",
+    "companyInvestors": [
+      "Y Combinator",
+      "GV",
+      "Index Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Dana Boyer",
+        "job": "Direct Directives Administrator"
+      },
+      {
+        "name": "Jill Heidenreich",
+        "job": "Future Marketing Planner"
+      }
+    ],
+    "companyArticles": [
+      "https://janae.info",
+      "https://idella.info",
+      "https://vern.net"
+    ]
+  },
+  {
+    "jobTitle": "Core Backend - Nodejs",
+    "jobTechnologiesUsed": [
+      "Docker",
+      "Java",
+      "Jenkins",
+      "Node.js",
+      "Terraform",
+      "React"
+    ],
+    "jobRequirements": "Quo temporibus quae ipsum est dolor facere neque debitis.\nExplicabo voluptas dolorum laborum architecto dolor consequatur ut ut.\nEt id nihil omnis eius rerum.\nIpsum reprehenderit eum est dolores et non qui quisquam.",
+    "jobExperienceLevel": "Entry",
+    "jobInvolves": "Ab id quas dolorem ducimus.\nFacere ea optio quia autem exercitationem et quos.\nUnde architecto iure quas error.\nNatus mollitia amet eveniet animi incidunt beatae.\nUnde rerum ut dicta reprehenderit facere voluptas ipsa et atque.",
+    "companyLogo": "https://placeimg.com/80/80/animals?78735",
+    "companyName": "Altenwerth, Steuber and Kemmer",
+    "companyDescription": "Mollitia rerum earum aut sed sed quaerat.",
+    "companyLocation": "North Laurychester",
+    "companyMission": "Voluptatem veritatis molestiae porro eligendi non consequatur qui. Et sed earum. Quia facere delectus.",
+    "companyGlassdoorRating": 1,
+    "companyBenefits": "Iste ducimus quasi ea est doloribus. Omnis voluptas cumque libero deserunt. Dicta doloremque autem. Et deleniti eligendi autem est perferendis eaque. Numquam nam repudiandae tenetur. Sed amet molestias qui quia iusto non cupiditate.\n \rIllum quae maxime eum. Quis accusantium quia et omnis animi consequuntur. Voluptas possimus ea id placeat cupiditate et ad animi.\n \rNam tempora quasi numquam. Aperiam odit dolores quis est placeat quam occaecati. In qui ea cumque voluptas ut. Impedit repellendus inventore. Corporis nihil repudiandae ut.",
+    "companyFunding": "835.53",
+    "companyInvestors": [
+      "Index Ventures",
+      "Data Point Capital",
+      "Index Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Clayton Dickens",
+        "job": "Dynamic Integration Technician"
+      },
+      {
+        "name": "Dr. Jessie Durgan",
+        "job": "Forward Optimization Liaison"
+      }
+    ],
+    "companyArticles": [
+      "http://tobin.org",
+      "http://kaycee.info",
+      "https://earnest.name"
+    ]
+  },
+  {
+    "jobTitle": "Core Backend - Nodejs",
+    "jobTechnologiesUsed": [
+      "Kubernetes",
+      "AWS",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "Jenkins"
+    ],
+    "jobRequirements": "Quibusdam vitae soluta neque quam omnis voluptatem harum.",
+    "jobExperienceLevel": "Entry",
+    "jobInvolves": "Ea quia dolorum soluta quo quia sunt et.",
+    "companyLogo": "https://placeimg.com/80/80/animals?24296",
+    "companyName": "Stroman, Smith and Ullrich",
+    "companyDescription": "Facere nulla quae et voluptas aspernatur aut.",
+    "companyLocation": "Sparks",
+    "companyMission": "Exercitationem occaecati libero ut eum dignissimos illo tempora iste eaque. Quasi minima a quasi nihil consequuntur recusandae sapiente facere necessitatibus. Rerum omnis optio est sint temporibus soluta quis consequatur. Mollitia sunt ipsum repellat mollitia enim. Eum ea quis atque totam architecto maiores excepturi illo. Sed non non soluta voluptas beatae in.",
+    "companyGlassdoorRating": 5,
+    "companyBenefits": "Voluptas quos laborum. Quis vero non voluptatum nam laboriosam. Non dolore adipisci illo et pariatur placeat minus sint. Dignissimos et dolorem. Aspernatur sit non doloribus rerum numquam mollitia ut recusandae. Et nobis molestiae dolor similique voluptatem aspernatur et molestiae corrupti.\n \rAut delectus est nesciunt voluptas tempore. Rerum sunt beatae asperiores sit. Qui ipsum nesciunt ipsum. Ea molestias voluptatum suscipit et. Voluptas sed accusantium commodi in tempora voluptas qui. Quibusdam voluptas vel.\n \rIllum consequatur repellat error porro sit. Aut occaecati fuga aliquid eos illo. Natus aut quasi omnis enim consequatur blanditiis non neque ab. Est sapiente quia quod aut nihil optio est doloribus.",
+    "companyFunding": "844.18",
+    "companyInvestors": [
+      "Binomial Ventures",
+      "IFG.VC",
+      "Y Combinator"
+    ],
+    "companyFounders": [
+      {
+        "name": "Olivia Halvorson",
+        "job": "National Accounts Analyst"
+      },
+      {
+        "name": "Alton Russel",
+        "job": "Legacy Security Supervisor"
+      }
+    ],
+    "companyArticles": [
+      "https://angelita.net",
+      "https://rozella.net",
+      "https://prince.name"
+    ]
+  },
+  {
+    "jobTitle": "Sowftware Engineer",
+    "jobTechnologiesUsed": [
+      "Angular",
+      "Angular",
+      "Java",
+      "AWS",
+      "Docker",
+      "C#"
+    ],
+    "jobRequirements": "Fugit molestias officia.\nDelectus libero velit.\nAut quia animi neque ea expedita qui.\nVeritatis et et enim eveniet.\nMinima voluptatem dolorem tempore est ab veniam debitis enim facilis.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Ad dicta veniam voluptas assumenda exercitationem blanditiis saepe ut maxime.\nAsperiores debitis quos sit.",
+    "companyLogo": "https://placeimg.com/80/80/animals?47178",
+    "companyName": "Hammes, Jenkins and Breitenberg",
+    "companyDescription": "Et consequatur totam aliquam ab nostrum.",
+    "companyLocation": "Port Akeemhaven",
+    "companyMission": "Quis officia id. Natus in rerum reiciendis sequi et qui cum illum. Rerum accusantium aperiam atque. Placeat et perspiciatis at accusamus temporibus. Qui vel eos fugit quae. Tempora maiores saepe cupiditate qui non laboriosam ut.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Officia nulla incidunt accusantium earum recusandae rerum. Autem sunt voluptas officiis. Eaque ducimus error ab suscipit. Ullam et ex. Rem autem commodi eum molestiae consequatur. Similique vel beatae ratione.\n \rQuaerat est id quas voluptas odio nulla perspiciatis. Perspiciatis eum fugiat nostrum dignissimos sunt quidem accusantium et. Autem in non. Iure inventore quo soluta assumenda perspiciatis.\n \rQuis tenetur architecto dicta rerum et deserunt qui omnis possimus. Necessitatibus nisi quos excepturi beatae cum velit. Quia minima placeat nihil dolores ea.",
+    "companyFunding": "593.11",
+    "companyInvestors": [
+      "Index Ventures",
+      "Triple Point Ventures",
+      "GV"
+    ],
+    "companyFounders": [
+      {
+        "name": "Fred Terry",
+        "job": "Regional Brand Representative"
+      },
+      {
+        "name": "Jesse Stracke",
+        "job": "Senior Paradigm Producer"
+      }
+    ],
+    "companyArticles": [
+      "https://isaias.com",
+      "https://eriberto.name",
+      "https://ari.com"
+    ]
+  },
+  {
+    "jobTitle": "Core Backend Infra - Ruby",
+    "jobTechnologiesUsed": [
+      "Angular",
+      "Java",
+      "Vue",
+      "Terraform",
+      "Terraform",
+      "Terraform"
+    ],
+    "jobRequirements": "Illo veniam officiis.\nRecusandae totam nam rerum asperiores est aut.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Qui rerum consequatur sit omnis.\nSint in vel ducimus.\nEveniet et facere dolores amet voluptate quia.\nDolorem illo fugit nihil.\nVeritatis ducimus perferendis dolorem quae aperiam facere perferendis quo voluptatem.",
+    "companyLogo": "https://placeimg.com/80/80/animals?64270",
+    "companyName": "Schaden, Kilback and Hoeger",
+    "companyDescription": "Velit dolorem eligendi at saepe id.",
+    "companyLocation": "Mayermouth",
+    "companyMission": "Ducimus sequi voluptas fugit officiis. Repudiandae et velit nam cumque ad totam. Soluta ut facilis nesciunt aliquid. Dolores dicta quibusdam. Aliquid officia cumque ut porro dolore quia ut temporibus. Sint nesciunt doloribus aut numquam dignissimos alias qui hic et.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Quia itaque debitis recusandae. Assumenda nesciunt neque est eum ut. Voluptatem in deleniti incidunt voluptas optio. Architecto culpa ut ex. Amet illum quia omnis tenetur voluptatibus quia. Et voluptas architecto.\n \rLaborum facere qui et mollitia. Non voluptas exercitationem. Magnam et ut dolores consequatur quaerat mollitia inventore at.\n \rVitae ut eligendi at. Eos ut saepe distinctio qui voluptatem. Delectus repellendus aut quis est sint rerum. Et vel quisquam quis necessitatibus temporibus ut. Inventore sed facilis sapiente ut facilis porro ab sint dolor.",
+    "companyFunding": "75.98",
+    "companyInvestors": [
+      "Octopus Ventures",
+      "GV",
+      "Octopus Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Jose Stanton",
+        "job": "Global Infrastructure Planner"
+      },
+      {
+        "name": "Shelia Johns",
+        "job": "Human Identity Officer"
+      }
+    ],
+    "companyArticles": [
+      "https://timothy.info",
+      "http://ellis.info",
+      "https://berniece.org"
+    ]
+  },
+  {
+    "jobTitle": "Backend Developer",
+    "jobTechnologiesUsed": [
+      "AWS",
+      "Kubernetes",
+      "Jenkins",
+      "Vue",
+      "C#",
+      "Angular"
+    ],
+    "jobRequirements": "Enim necessitatibus nihil provident.\nEst iste nihil tenetur.",
+    "jobExperienceLevel": "Entry",
+    "jobInvolves": "Accusantium sapiente itaque sint quia cupiditate ea itaque officia.\nVoluptatibus ad sapiente itaque consectetur aperiam officiis dolores.",
+    "companyLogo": "https://placeimg.com/80/80/animals?24185",
+    "companyName": "Bradtke - Streich",
+    "companyDescription": "Voluptates non in tempore velit facilis.",
+    "companyLocation": "Jaronshire",
+    "companyMission": "Nobis repellat labore ratione. Et voluptas sit vero eligendi. Delectus quia aliquam tempore accusantium molestiae est modi dolorem consequuntur. Ut laborum exercitationem. Vero aut officia labore nobis ex magni nam eligendi.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Nihil quos veniam voluptas sapiente. Doloremque quos laboriosam autem vel ut. Est adipisci est.\n \rAmet omnis ex ducimus est dolores sunt voluptas. Laboriosam deserunt quidem. Ab sunt aut rerum cupiditate sit ipsam. Minima vero velit.\n \rEt cum vero. Corrupti laborum incidunt aut deserunt et sint magnam rerum ut. Consequatur magnam quia ea veritatis magni dignissimos. Sit minima voluptatem temporibus et. Modi sunt fugiat.",
+    "companyFunding": "706.13",
+    "companyInvestors": [
+      "Hoxton Ventures",
+      "Index Ventures",
+      "Hoxton Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Ida Abernathy",
+        "job": "Global Response Planner"
+      },
+      {
+        "name": "Simon Klocko",
+        "job": "Direct Creative Architect"
+      }
+    ],
+    "companyArticles": [
+      "http://jacinto.com",
+      "https://effie.biz",
+      "https://mitchell.com"
+    ]
+  },
+  {
+    "jobTitle": "Frontend Developer (Vue)",
+    "jobTechnologiesUsed": [
+      "Node.js",
+      "Jenkins",
+      "Vue",
+      "Jenkins",
+      "Terraform",
+      "Angular"
+    ],
+    "jobRequirements": "Dolorem rerum dolor laudantium quae.\nAccusamus sapiente dolor occaecati blanditiis tempore ut.\nCommodi voluptates consequatur omnis earum maxime sunt.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Nisi voluptatem voluptatem vitae consequatur qui eum maiores doloremque.\nTenetur et nihil enim quia vel et repudiandae quia quo.",
+    "companyLogo": "https://placeimg.com/80/80/animals?75241",
+    "companyName": "Bogan, Huels and Murphy",
+    "companyDescription": "Dolore dolorem perspiciatis sed enim illum aut.",
+    "companyLocation": "Ernserton",
+    "companyMission": "Atque debitis reprehenderit impedit enim. Sunt quia sint similique adipisci. Quia aliquid et quibusdam inventore rem. Atque voluptatem molestiae soluta corporis quo.",
+    "companyGlassdoorRating": 1,
+    "companyBenefits": "Iste rerum dolores a qui illum aut vitae libero soluta. Aut accusantium dolores eaque sed. Repudiandae iste rem facilis dignissimos.\n \rUt consequuntur voluptas rerum unde corrupti iusto perspiciatis voluptatem ipsam. Et aut omnis repudiandae saepe tempora vel at et. Similique quibusdam tempore quia. Saepe soluta ut molestiae fugit dolor accusantium est reiciendis. Ratione voluptatem tempora unde blanditiis eos totam aut. Qui expedita quis autem a doloremque eveniet explicabo porro nemo.\n \rSed corporis et vel aut voluptate velit qui amet hic. At fugiat excepturi. Qui cum suscipit sed harum. Omnis assumenda sequi quod iste.",
+    "companyFunding": "480.70",
+    "companyInvestors": [
+      "IFG.VC",
       "IFG.VC",
       "Oxford Foundry"
     ],
-    "jobInvolves": "Consequuntur rerum quasi odit autem dolorum eligendi.\nMolestiae et ullam ipsum temporibus sint culpa labore.\nEaque in soluta ipsam eos suscipit.",
-    "founders": [
+    "companyFounders": [
       {
-        "name": "Christopher Luettgen",
-        "job": "Corporate Program Representative"
+        "name": "Noah Kub",
+        "job": "Dynamic Web Facilitator"
       },
       {
-        "name": "Alfonso Wolf",
-        "job": "District Assurance Assistant"
+        "name": "Stacey Grimes",
+        "job": "Senior Usability Producer"
       }
     ],
-    "articles": [
-      "https://isabel.info",
-      "http://zachery.biz",
-      "https://demond.org"
+    "companyArticles": [
+      "https://grady.info",
+      "http://lurline.name",
+      "https://antonetta.biz"
     ]
   },
   {
-    "companyName": "Wisoky, Schuppe and Armstrong",
-    "logo": "https://placeimg.com/80/80/animals?43283",
-    "description": "Deserunt velit quia perferendis eos fugit odio ex esse vitae.",
-    "location": "West Jeanetteshire",
-    "companyMission": "Reprehenderit eligendi illo ad animi dolore nemo ut rerum accusantium. Distinctio enim ex minus. Consequatur numquam id doloremque perspiciatis repellendus ut in. Repellat inventore quidem unde dignissimos quis magnam.",
-    "technologiesUsed": [
-      "Vue",
-      "Terraform",
-      "Jenkins",
-      "Vue",
-      "Angular",
-      "Terraform"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "Quia earum et nihil dignissimos.",
-    "experienceLevel": "Senior",
-    "benefits": "Aspernatur aut sit. Tempora voluptatum et aut distinctio sit totam dignissimos. Sit placeat dolorum enim tempora. Velit quaerat aliquid magnam. Voluptatum fuga dolore ut magni ullam quis.\n \rA labore sit. Blanditiis iure praesentium sunt et debitis aut dolor corrupti. Consequatur quos sed doloribus in rem. Voluptatem nobis unde dolores.\n \rVoluptatibus eveniet beatae vero sint possimus quas ut et amet. Architecto ad repellendus ut ab eveniet sint neque modi. Et aperiam unde quod ut aut. Quo quia excepturi et qui quo laboriosam. Rerum ipsa et praesentium voluptatem ad corporis voluptatem excepturi.",
-    "funding": "591.76",
-    "investors": [
-      "Y Combinator",
-      "Octopus Ventures",
-      "Amadeus Capital"
-    ],
-    "jobInvolves": "Aut totam placeat voluptatem accusamus quibusdam officiis nemo.\nNecessitatibus quo vel.\nEsse fuga necessitatibus harum.",
-    "founders": [
-      {
-        "name": "Dr. Conrad Langosh",
-        "job": "Regional Configuration Executive"
-      },
-      {
-        "name": "Miss Lionel Yundt",
-        "job": "Dynamic Web Executive"
-      }
-    ],
-    "articles": [
-      "http://haskell.biz",
-      "http://gayle.biz",
-      "http://teresa.biz"
-    ]
-  },
-  {
-    "companyName": "Rosenbaum LLC",
-    "logo": "https://placeimg.com/80/80/animals?87586",
-    "description": "Inventore ad minus.",
-    "location": "East Stuartstad",
-    "companyMission": "Dolores aperiam repellat ea doloremque voluptatibus ut porro iusto sed. In laborum fugiat cupiditate blanditiis. Blanditiis in voluptatem. Quos vel minus maiores dicta consequuntur hic harum vitae.",
-    "technologiesUsed": [
+    "jobTitle": "Core Backend - Nodejs",
+    "jobTechnologiesUsed": [
+      "Java",
       "Jenkins",
       "C#",
-      "Java",
-      "Angular",
       "Node.js",
-      "React"
-    ],
-    "glassdoorRating": 3,
-    "requirements": "Odit ratione voluptas non et rerum inventore veritatis.\nLaboriosam nihil facere ut est nisi fuga explicabo fugiat ut.\nIpsa officiis necessitatibus.\nA doloremque et corrupti neque sit omnis.\nInventore similique voluptates rem tempore eveniet.",
-    "experienceLevel": "Mid",
-    "benefits": "Eius et rerum ducimus. Et quod magnam veniam. Laudantium perspiciatis et a iusto beatae. Pariatur molestias illo molestias dolores nemo laudantium beatae. Architecto laboriosam dolorem unde et placeat.\n \rIure magni quaerat est sequi. Repellendus quis quia nisi quam architecto iusto sequi impedit fugiat. Voluptatem et ipsam eos doloribus quo laborum. Officiis quia dolores necessitatibus culpa laborum ipsum. Repudiandae eaque ut qui reprehenderit vel ut similique excepturi quo. Sunt est eaque.\n \rAutem ut impedit numquam minima modi. Neque explicabo esse quidem magnam nihil maiores reprehenderit voluptatem sunt. Alias iure sit. Fugit recusandae asperiores omnis et sunt voluptates.",
-    "funding": "313.98",
-    "investors": [
-      "IFG.VC",
-      "Index Ventures",
-      "GV"
-    ],
-    "jobInvolves": "Qui rem eos qui et qui incidunt aut optio dolores.\nMolestias omnis aut nihil dignissimos voluptate.",
-    "founders": [
-      {
-        "name": "Cornelius Schaefer",
-        "job": "Legacy Division Engineer"
-      },
-      {
-        "name": "Mr. Jeremy Ernser",
-        "job": "Regional Implementation Analyst"
-      }
-    ],
-    "articles": [
-      "https://jennyfer.com",
-      "http://pete.com",
-      "https://dana.info"
-    ]
-  },
-  {
-    "companyName": "Lemke - Zemlak",
-    "logo": "https://placeimg.com/80/80/animals?66422",
-    "description": "Amet unde excepturi soluta laborum et debitis.",
-    "location": "Handton",
-    "companyMission": "Autem voluptatem repellat deserunt maxime et ex quis. Minima fuga qui velit quae voluptate odit distinctio similique est. Quo ut nemo quas molestiae. Qui velit aliquam possimus vitae debitis modi voluptatum voluptas. Iure eveniet animi commodi tenetur consequuntur eveniet et. Amet deleniti odio autem delectus.",
-    "technologiesUsed": [
-      "AWS",
-      "C#",
-      "Java",
-      "C#",
       "Java",
       "Vue"
     ],
-    "glassdoorRating": 3,
-    "requirements": "Illum qui sed exercitationem voluptatibus dolores deleniti dicta illo voluptatem.",
-    "experienceLevel": "Mid",
-    "benefits": "Iusto error quo quos voluptatem voluptatem consequatur. Delectus ad sit quia. In accusantium qui minima voluptatem autem blanditiis accusantium veritatis optio. Est optio quos exercitationem.\n \rDeserunt repudiandae tempora delectus reiciendis perspiciatis odit et. Est voluptatem molestias ratione laudantium sequi. Adipisci id nisi ab pariatur possimus nisi officia incidunt. Omnis debitis molestias ut aut nemo. Aliquid nisi illo dolorem ut sint pariatur nobis.\n \rAmet sit sit magni nam blanditiis vitae. Facilis vel deleniti assumenda. Officiis quis sunt accusamus iste eaque adipisci praesentium voluptatem. Exercitationem sit dolores doloribus consectetur debitis eaque exercitationem fugiat velit. Quibusdam sit deleniti. Dolorem quia explicabo quia ipsa at tempora eum saepe.",
-    "funding": "604.27",
-    "investors": [
-      "Data Point Capital",
-      "Binomial Ventures",
-      "Speed Invest"
-    ],
-    "jobInvolves": "Aut quod magnam aliquam.",
-    "founders": [
-      {
-        "name": "Ms. Donald Crona",
-        "job": "Future Response Architect"
-      },
-      {
-        "name": "Carole Kshlerin",
-        "job": "Dynamic Security Planner"
-      }
-    ],
-    "articles": [
-      "http://lillian.com",
-      "https://meghan.com",
-      "http://ernestine.com"
-    ]
-  },
-  {
-    "companyName": "Volkman - Wilderman",
-    "logo": "https://placeimg.com/80/80/animals?71870",
-    "description": "Voluptates non ut nisi vel doloremque quo dolores.",
-    "location": "Ann Arbor",
-    "companyMission": "Magni rerum aut culpa ut similique. Esse recusandae et ut eos dolores eligendi numquam. Et eum vel minima et pariatur fuga ipsa amet. Sed dolorem quia dolorem earum quibusdam. Eligendi et et magnam iusto dolorem exercitationem natus nisi.",
-    "technologiesUsed": [
-      "AWS",
-      "Angular",
-      "Kubernetes",
-      "AWS",
-      "Vue",
-      "Terraform"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "Aut occaecati ea maiores voluptas maiores ratione corrupti ipsum.\nAb eaque ullam quisquam dolores aut velit cupiditate.\nSint et molestiae expedita aperiam est reprehenderit.\nQui repellendus laudantium aspernatur.\nRerum totam cumque totam rem autem voluptas.",
-    "experienceLevel": "Junior",
-    "benefits": "Repellendus excepturi excepturi sed sunt. Modi enim quia est qui nihil. Aliquam esse facilis atque sit. Amet omnis et voluptatem fuga in nostrum earum enim non. Occaecati dolorem nihil impedit magnam suscipit qui.\n \rIusto rerum reiciendis minus est neque incidunt ex aut vel. Nesciunt voluptas quam et fugiat. Et corporis quidem. Pariatur nobis ullam et quas dolores quasi qui eos explicabo. Et quod et asperiores cumque. Porro fuga sint nisi illum deleniti eligendi consectetur.\n \rQuaerat assumenda nam qui iste similique dolor error sunt. A unde sunt dolore excepturi ut nihil. Laborum voluptatem accusantium illo hic. Porro magni qui optio est aut. Sed magnam voluptas laudantium quibusdam iste debitis est illum. Nemo aspernatur iste ea.",
-    "funding": "647.94",
-    "investors": [
-      "Amadeus Capital",
-      "Hoxton Ventures",
-      "Index Ventures"
-    ],
-    "jobInvolves": "Et quia magnam est at temporibus omnis quo accusantium culpa.",
-    "founders": [
-      {
-        "name": "Craig Torphy",
-        "job": "Central Identity Coordinator"
-      },
-      {
-        "name": "Miss Alison Gottlieb",
-        "job": "Investor Implementation Developer"
-      }
-    ],
-    "articles": [
-      "https://ken.org",
-      "http://maxie.org",
-      "https://tina.com"
-    ]
-  },
-  {
-    "companyName": "Tremblay - Graham",
-    "logo": "https://placeimg.com/80/80/animals?92130",
-    "description": "Non aperiam in fugit et quibusdam quo expedita doloribus.",
-    "location": "Port Katelynn",
-    "companyMission": "Dolores nostrum non. Labore repellendus unde ut. Consequatur cumque voluptates ducimus.",
-    "technologiesUsed": [
-      "AWS",
-      "React",
-      "Kubernetes",
-      "Node.js",
-      "Vue",
-      "Docker"
-    ],
-    "glassdoorRating": 2,
-    "requirements": "Inventore et non voluptatem aliquam laborum dolor omnis corporis ratione.",
-    "experienceLevel": "Junior",
-    "benefits": "Culpa animi alias ut esse reprehenderit dolor fugit quisquam. Aliquam saepe pariatur. Laborum non repellendus quia et cum et quisquam minima omnis. Sed omnis recusandae mollitia non sunt odit corrupti.\n \rAd velit eius. Debitis labore deleniti ipsum earum fugit nihil. Quisquam illo mollitia omnis in ex aut ut. Qui rerum sint dolor exercitationem. Et commodi eos illum libero qui non tempora. Qui nostrum sequi.\n \rEst atque totam quia minima. Ullam magni consequatur sit alias. Necessitatibus qui error omnis. Illo tempore eveniet officiis aut minima dolorem labore.",
-    "funding": "679.06",
-    "investors": [
-      "Data Point Capital",
-      "Data Point Capital",
-      "Hoxton Ventures"
-    ],
-    "jobInvolves": "Est ducimus non vitae et possimus velit libero.\nEst consectetur et quidem consequatur quia.",
-    "founders": [
-      {
-        "name": "Glenda Volkman",
-        "job": "Lead Group Director"
-      },
-      {
-        "name": "Max Langosh IV",
-        "job": "Global Group Planner"
-      }
-    ],
-    "articles": [
-      "http://christina.com",
-      "http://easter.net",
-      "https://brian.net"
-    ]
-  },
-  {
-    "companyName": "Halvorson, Goyette and Johnson",
-    "logo": "https://placeimg.com/80/80/animals?77201",
-    "description": "Neque sunt est unde officia vitae voluptatum dolores qui.",
-    "location": "Karolannview",
-    "companyMission": "Quos illum praesentium laboriosam. Ut ullam quia qui voluptatem voluptates voluptas. Eum magnam est alias accusantium perspiciatis et autem excepturi mollitia.",
-    "technologiesUsed": [
-      "Docker",
-      "AWS",
-      "AWS",
-      "Angular",
-      "Java",
-      "Terraform"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "Quia aut suscipit molestiae est est est aliquid ea.\nDolores enim fuga.\nEligendi id quisquam voluptatibus architecto et eligendi quia mollitia.\nNam et sed minima dolor asperiores voluptatum et.\nAccusamus molestias voluptatibus quo tenetur sequi et suscipit ea.",
-    "experienceLevel": "Senior",
-    "benefits": "Rerum quaerat ea quia reiciendis rerum. Enim voluptatibus quia temporibus. Maxime at at non sint est minus consequatur praesentium in.\n \rEa aut veniam officia omnis iste dicta nostrum. Modi non odit est ea quasi eveniet odio. Exercitationem perferendis rerum error est et et earum doloremque. Illo quia sed rerum impedit blanditiis ut officia. Voluptates suscipit quaerat sunt enim omnis assumenda quos.\n \rTotam ducimus officia laborum sed eum et temporibus corrupti facere. Dolorem soluta blanditiis quia. Reiciendis molestiae quasi nihil neque consequatur harum. Quae harum magnam nemo nobis voluptatem.",
-    "funding": "327.22",
-    "investors": [
-      "GV",
-      "Amadeus Capital",
-      "Octopus Ventures"
-    ],
-    "jobInvolves": "Nam quia autem nobis nesciunt vel ipsam sit architecto.",
-    "founders": [
-      {
-        "name": "Dr. Nettie Wolff",
-        "job": "Future Factors Officer"
-      },
-      {
-        "name": "Diana Grady",
-        "job": "Product Directives Developer"
-      }
-    ],
-    "articles": [
-      "https://maria.name",
-      "http://baby.net",
-      "http://conrad.com"
-    ]
-  },
-  {
-    "companyName": "Lehner, McDermott and Macejkovic",
-    "logo": "https://placeimg.com/80/80/animals?64570",
-    "description": "Iste voluptas tempora.",
-    "location": "West Vickyside",
-    "companyMission": "Qui sed et minus. Dolor totam nam at tenetur molestias quia eligendi voluptas et. Ipsum eum dolorum aut. Quidem rerum accusantium cumque harum quisquam sequi rerum. Velit quam qui nulla dolores sunt distinctio.",
-    "technologiesUsed": [
-      "Java",
-      "Docker",
-      "Kubernetes",
-      "Node.js",
-      "Angular",
-      "React"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "Repudiandae et dolorum harum sunt odit.\nNostrum quis ipsam.\nVel vitae alias.",
-    "experienceLevel": "Mid",
-    "benefits": "Ut placeat ea ratione ducimus. Eveniet quo perspiciatis. Nulla molestiae exercitationem illum et. Natus dolore corrupti dolor fuga a. Ea repellendus rem rerum et tempora nobis.\n \rPariatur quis occaecati quasi omnis qui. Molestiae voluptatem sed quam quia odio aut voluptatem qui. Voluptatem alias impedit impedit quas repudiandae hic. Voluptatem est quia. Assumenda dolorum ipsum. Cupiditate non ut est modi incidunt sit quo beatae.\n \rAutem cum culpa omnis alias. Repellat corrupti deserunt. Voluptas voluptatem quia eligendi voluptas qui neque maiores.",
-    "funding": "449.90",
-    "investors": [
-      "Triple Point Ventures",
+    "jobRequirements": "Sapiente aut quo error deleniti.\nEveniet doloremque quia sunt aspernatur qui culpa ut et.",
+    "jobExperienceLevel": "Senior",
+    "jobInvolves": "Id qui non quo consequatur necessitatibus.\nQui aut eligendi incidunt rerum autem.\nLaboriosam est eligendi nihil non debitis accusamus.\nQuae et doloribus inventore quia dicta non animi recusandae.",
+    "companyLogo": "https://placeimg.com/80/80/animals?76517",
+    "companyName": "Hermann Inc",
+    "companyDescription": "Iure aut explicabo.",
+    "companyLocation": "Pollichchester",
+    "companyMission": "Quidem voluptate recusandae officia quo et itaque. Similique optio itaque minima perspiciatis ut optio blanditiis. Saepe quaerat officiis aliquid veritatis rerum excepturi.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Minus aliquid ut ex quis aspernatur magni atque. Pariatur minima non qui sint ducimus. Aut eaque odio labore voluptatem fugit consequatur. Maxime est et ullam temporibus aut in provident facilis magni. Odit dignissimos ullam sed deserunt voluptatem et corporis qui. Blanditiis aperiam quos dignissimos cumque autem consequatur sint eum dicta.\n \rSunt inventore voluptas aperiam. Reprehenderit veritatis suscipit fugit laboriosam sapiente dolores quis nisi. Temporibus eveniet id corporis recusandae libero molestiae modi. Dolor minima corporis ab aut iste. Voluptatem consectetur non illum enim laborum ipsam aperiam consectetur. Odio dignissimos non minus repudiandae et rerum voluptatem corporis architecto.\n \rDeserunt veritatis qui quas occaecati id tenetur accusantium rerum id. Blanditiis maxime officia totam saepe dolorem quia. Quasi quidem beatae. Ea amet laboriosam et doloribus iure totam cumque cum placeat. Eum vel voluptas est ipsum ut. Et eligendi necessitatibus distinctio ea iusto.",
+    "companyFunding": "807.76",
+    "companyInvestors": [
+      "Y Combinator",
       "Hoxton Ventures",
       "Octopus Ventures"
     ],
-    "jobInvolves": "Quos doloribus voluptatem quaerat aut.\nExpedita facilis alias ullam adipisci nihil cum.\nAsperiores enim beatae ad et.",
-    "founders": [
+    "companyFounders": [
       {
-        "name": "Margaret Thompson",
-        "job": "International Research Coordinator"
+        "name": "Gordon Corkery DVM",
+        "job": "Corporate Tactics Officer"
       },
       {
-        "name": "Roger Heathcote",
-        "job": "District Tactics Specialist"
+        "name": "Rita Wuckert",
+        "job": "Direct Interactions Representative"
       }
     ],
-    "articles": [
-      "https://harmony.info",
-      "http://ara.com",
-      "http://delphine.name"
+    "companyArticles": [
+      "https://seth.org",
+      "http://melissa.com",
+      "http://simeon.org"
     ]
   },
   {
-    "companyName": "Hettinger, Turner and Torp",
-    "logo": "https://placeimg.com/80/80/animals?83173",
-    "description": "Eum et debitis quibusdam et amet.",
-    "location": "Binsside",
-    "companyMission": "Aut et sequi minima. Labore ut laudantium est incidunt sit. Et id aut reiciendis magni id. Omnis accusamus quia recusandae tempore voluptate veritatis dolorem non. Nulla eveniet assumenda ipsa id quia ut nostrum aut.",
-    "technologiesUsed": [
-      "Kubernetes",
-      "Terraform",
-      "Docker",
-      "Vue",
+    "jobTitle": "Frontend React Developer",
+    "jobTechnologiesUsed": [
       "React",
-      "C#"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "Sequi distinctio odit ea blanditiis.\nRerum accusamus rerum rerum est ab et corrupti.\nVoluptas quod ut veniam itaque eos.\nReiciendis harum ut molestiae unde rem.",
-    "experienceLevel": "Entry",
-    "benefits": "Explicabo at assumenda et nobis rerum occaecati deleniti natus. Vel tempora veritatis et. Officia at dolorum dicta. Illum in cum deleniti assumenda ut. Eius dolore et tempore.\n \rSequi eos eaque est vitae dolorem omnis voluptatem. Labore rerum ut eligendi quo perferendis expedita qui est. Veritatis sunt laborum cumque et.\n \rMagnam officiis tenetur. Est nam omnis necessitatibus labore tempora voluptatem minima architecto. Reprehenderit ut officiis aspernatur aliquam suscipit autem eos repudiandae nihil. Perspiciatis voluptatem qui et et omnis voluptate amet.",
-    "funding": "615.37",
-    "investors": [
-      "Oxford Foundry",
-      "Amadeus Capital",
-      "Amadeus Capital"
-    ],
-    "jobInvolves": "Repellendus voluptatem ad qui aspernatur.\nExplicabo ut et numquam doloribus asperiores id.\nUt non rerum.\nEt quaerat quia ipsum.",
-    "founders": [
-      {
-        "name": "Lynette Runte",
-        "job": "Customer Directives Administrator"
-      },
-      {
-        "name": "Bryant Haag",
-        "job": "Dynamic Factors Coordinator"
-      }
-    ],
-    "articles": [
-      "https://mara.biz",
-      "http://carli.biz",
-      "https://maya.net"
-    ]
-  },
-  {
-    "companyName": "Okuneva and Sons",
-    "logo": "https://placeimg.com/80/80/animals?74576",
-    "description": "Illum deleniti maxime ea eaque doloribus at.",
-    "location": "Carolannefort",
-    "companyMission": "Doloremque ut vitae error est laudantium. Excepturi blanditiis libero. Quisquam animi provident itaque est sunt pariatur explicabo quidem eaque.",
-    "technologiesUsed": [
-      "Jenkins",
-      "Vue",
-      "Terraform",
+      "Kubernetes",
       "Angular",
       "Docker",
-      "C#"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "In doloribus omnis et libero tempora cumque.\nReprehenderit distinctio voluptate.\nTotam quia quae exercitationem qui eum consectetur ipsam.\nQuis ut deserunt velit tempora saepe.\nOmnis laudantium possimus eum enim sed quia.",
-    "experienceLevel": "Expert",
-    "benefits": "Dignissimos quisquam culpa dolores deserunt optio. Est adipisci et qui sit. Adipisci rerum recusandae. Minus voluptatem qui sit quo itaque quis accusamus sint. Est tempore cum ea sit eos vero quae. Fugit hic aperiam.\n \rAlias reiciendis ipsa dolorum deserunt et aspernatur rem quae. Ea nulla nam. Eos nulla fugit id in rem delectus minus quis.\n \rOdit ad quia in tenetur. Deserunt ut ullam incidunt. Sed debitis officia dolore sit velit. Est dolor debitis debitis sed perspiciatis molestiae voluptates sed tempora.",
-    "funding": "182.66",
-    "investors": [
-      "Octopus Ventures",
-      "Index Ventures",
-      "IFG.VC"
-    ],
-    "jobInvolves": "Repellendus officia totam facere consequatur autem enim doloremque rem asperiores.\nVoluptatem aut sunt quo similique.",
-    "founders": [
-      {
-        "name": "Stuart Johns",
-        "job": "Direct Markets Facilitator"
-      },
-      {
-        "name": "Mabel Roob",
-        "job": "Customer Mobility Facilitator"
-      }
-    ],
-    "articles": [
-      "http://britney.name",
-      "https://derrick.com",
-      "http://giuseppe.name"
-    ]
-  },
-  {
-    "companyName": "Waters - Welch",
-    "logo": "https://placeimg.com/80/80/animals?77520",
-    "description": "At suscipit ad eaque.",
-    "location": "Mount Vernon",
-    "companyMission": "Et saepe qui. Inventore soluta ut minus sed consequatur et. Qui ut sint rerum ipsum ipsam nemo rerum. Eos molestias aspernatur quis inventore beatae. Architecto quia pariatur explicabo vitae delectus quia.",
-    "technologiesUsed": [
-      "Jenkins",
-      "AWS",
-      "AWS",
-      "Jenkins",
-      "React",
-      "Terraform"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "Qui sed et sed non est veritatis eius.\nQuas voluptas asperiores inventore.\nQuia ut et sed sit necessitatibus.\nNisi sint quisquam ad distinctio ut.",
-    "experienceLevel": "Senior",
-    "benefits": "Soluta dolores ut tempore quibusdam ut quia. Dolores sit aliquid voluptas vel adipisci. Enim dolore quidem voluptas aliquid quo animi corporis. Pariatur repellat similique dolorum doloribus qui. Nihil dolores debitis. Asperiores sunt corrupti esse.\n \rAnimi est voluptate. Nisi quos unde exercitationem voluptas molestias at rerum quia. Dolorem vitae harum illum quibusdam maiores. Fuga officia accusamus alias corporis similique est.\n \rFugiat et facilis ut ut delectus. Alias nihil deleniti eum quaerat. Suscipit eum quasi dolores eius explicabo. Rerum excepturi esse qui architecto vel. Nostrum qui voluptates consectetur at unde rerum et. Neque ut consequatur laboriosam qui sunt.",
-    "funding": "496.94",
-    "investors": [
-      "Amadeus Capital",
-      "Index Ventures",
-      "Triple Point Ventures"
-    ],
-    "jobInvolves": "Aut eius laudantium.\nAdipisci autem inventore deleniti sequi.\nUt ea ullam.\nLaudantium velit quis consequatur soluta voluptatem aut.\nRem praesentium repellendus consequatur repellat.",
-    "founders": [
-      {
-        "name": "Lucas Zboncak",
-        "job": "Internal Assurance Associate"
-      },
-      {
-        "name": "Edgar Hudson",
-        "job": "Product Mobility Architect"
-      }
-    ],
-    "articles": [
-      "http://emely.net",
-      "http://herminia.name",
-      "http://michele.info"
-    ]
-  },
-  {
-    "companyName": "Nicolas Group",
-    "logo": "https://placeimg.com/80/80/animals?4201",
-    "description": "Sint consequatur facilis.",
-    "location": "Leilaniville",
-    "companyMission": "Et fugiat molestiae consequatur dolorum consectetur laboriosam. Earum culpa neque maxime aut asperiores. Est officiis nemo accusantium deserunt aperiam modi. Itaque blanditiis debitis itaque et consequatur.",
-    "technologiesUsed": [
-      "Kubernetes",
-      "Java",
-      "Angular",
-      "Kubernetes",
       "Docker",
       "Java"
     ],
-    "glassdoorRating": 1,
-    "requirements": "Sed qui beatae eveniet ipsam temporibus.\nAspernatur nam eveniet omnis.\nAliquid et praesentium veniam rerum.",
-    "experienceLevel": "Mid",
-    "benefits": "Porro quia voluptatem enim sunt aspernatur nihil officia et consequatur. Cumque id accusantium veniam. Delectus sed ab similique soluta nesciunt. Omnis delectus voluptas est voluptatem qui tenetur.\n \rIllum cumque perferendis libero minima veniam. Dolorem voluptatem dolores sequi. Porro similique fugit. Enim molestiae atque eos dolores voluptate corrupti. Molestias consequatur ut et facilis minus aliquid at. Porro nulla dolorem cum.\n \rIusto expedita vero non. Maxime est temporibus a veritatis sint asperiores. Optio laudantium quasi voluptas sapiente sed. Impedit harum est. Quia qui quaerat non. Adipisci sed consequuntur aliquam facilis officiis mollitia necessitatibus praesentium.",
-    "funding": "245.59",
-    "investors": [
-      "Octopus Ventures",
-      "IFG.VC",
+    "jobRequirements": "Dolores dolores laborum iusto sunt.\nOptio nihil aut ut earum praesentium non.\nOccaecati neque quae ad voluptatum doloribus ut qui.\nIncidunt occaecati aspernatur placeat ea sed veritatis autem.",
+    "jobExperienceLevel": "Junior",
+    "jobInvolves": "Cumque laborum id aliquam ut.\nIllum laborum rem velit non dolorem rerum ratione.\nSit ipsam minus sequi non expedita in culpa.\nSoluta error sed error.\nAliquam et dolorem quia porro autem dolor dolorum.",
+    "companyLogo": "https://placeimg.com/80/80/animals?1392",
+    "companyName": "Kohler - Considine",
+    "companyDescription": "Culpa quas illum consequatur unde odio sint optio commodi ut.",
+    "companyLocation": "East Blairhaven",
+    "companyMission": "Facere corporis non natus iusto reiciendis et voluptatem minima. Impedit ut ut. Beatae quia ratione. Labore sed quas.",
+    "companyGlassdoorRating": 3,
+    "companyBenefits": "Labore dolorum eos assumenda corrupti. Consequatur vel consequuntur qui ut ut maxime. Quidem alias et et. Nihil repellat ipsam.\n \rReiciendis vero magni est sapiente exercitationem ab. Omnis beatae et sed officiis. Tempore sapiente dolores amet dolorem atque natus.\n \rUllam repellat et et optio. Expedita architecto quae quos quam. Explicabo qui reiciendis non harum similique nihil incidunt deleniti. Consequatur ullam ut eaque. Cumque illo natus rerum iste fuga temporibus dolorum. Minima debitis corrupti.",
+    "companyFunding": "957.17",
+    "companyInvestors": [
+      "Y Combinator",
+      "Binomial Ventures",
+      "Hoxton Ventures"
+    ],
+    "companyFounders": [
+      {
+        "name": "Audrey Streich",
+        "job": "Investor Identity Facilitator"
+      },
+      {
+        "name": "Elvira Wintheiser",
+        "job": "Dynamic Integration Executive"
+      }
+    ],
+    "companyArticles": [
+      "http://alisha.com",
+      "https://jo.com",
+      "https://eden.org"
+    ]
+  },
+  {
+    "jobTitle": "Frontend Engineer",
+    "jobTechnologiesUsed": [
+      "Kubernetes",
+      "React",
+      "Terraform",
+      "Terraform",
+      "Jenkins",
+      "Jenkins"
+    ],
+    "jobRequirements": "At ab quo et quis.\nSoluta nihil et eum et sit ex saepe.\nUt ea et mollitia incidunt aut qui qui et voluptatem.",
+    "jobExperienceLevel": "Mid",
+    "jobInvolves": "Aut officiis ratione cum voluptatibus.\nSit enim voluptatibus sint enim molestiae temporibus.\nMaiores eos explicabo provident.",
+    "companyLogo": "https://placeimg.com/80/80/animals?34250",
+    "companyName": "O'Kon, Herzog and Skiles",
+    "companyDescription": "Qui accusantium non ut ipsum nisi nisi occaecati.",
+    "companyLocation": "Sophiaborough",
+    "companyMission": "Alias saepe praesentium nam. Eos sunt repudiandae voluptatibus enim aut labore expedita occaecati ratione. Praesentium illum deserunt autem perspiciatis vitae vero in esse. Possimus ut illo veniam autem. Et neque aliquam sunt eum porro. Est corporis sit aliquam eum architecto necessitatibus.",
+    "companyGlassdoorRating": 2,
+    "companyBenefits": "Et aspernatur eum dolorem aut autem recusandae corrupti sunt. Molestiae ab amet incidunt. Corrupti asperiores non quia aspernatur non numquam. Est maxime inventore repellendus et sed aperiam atque.\n \rVel odit laborum. Non ratione aut dicta. Officia reiciendis distinctio dolorem qui. Molestias ut non nobis quo sequi sint eveniet veniam. Esse perspiciatis ut ut placeat in saepe in voluptas enim. Occaecati fugit dolores ut cumque aut veritatis cumque placeat ut.\n \rIpsam est et accusamus sunt cupiditate nobis explicabo. Impedit sunt quae sed soluta. Et temporibus consequatur explicabo consequuntur. Nobis suscipit ullam tenetur. Odit qui hic aut distinctio culpa minima sint doloribus iure.",
+    "companyFunding": "599.70",
+    "companyInvestors": [
+      "Amadeus Capital",
+      "Y Combinator",
       "Oxford Foundry"
     ],
-    "jobInvolves": "Harum inventore eligendi.",
-    "founders": [
+    "companyFounders": [
       {
-        "name": "Krista Williamson",
-        "job": "Dynamic Brand Officer"
+        "name": "Miss Sonja O'Conner",
+        "job": "Corporate Implementation Specialist"
       },
       {
-        "name": "Ashley Lesch",
-        "job": "Customer Accounts Coordinator"
+        "name": "Joyce Stehr",
+        "job": "International Interactions Officer"
       }
     ],
-    "articles": [
-      "http://ahmad.info",
-      "https://daphne.com",
-      "http://lon.com"
+    "companyArticles": [
+      "https://yasmine.org",
+      "https://raven.info",
+      "http://germaine.com"
     ]
   },
   {
-    "companyName": "Boyer - Lindgren",
-    "logo": "https://placeimg.com/80/80/animals?5310",
-    "description": "Consequatur et aut sit tenetur qui iste.",
-    "location": "Abshireport",
-    "companyMission": "Qui voluptate rerum sunt sunt repellendus temporibus quis velit iusto. Praesentium ut facilis adipisci officia dolore pariatur dolorem. Perferendis ut voluptas nesciunt inventore ut.",
-    "technologiesUsed": [
-      "Terraform",
-      "Node.js",
+    "jobTitle": "Core Backend Infra - Ruby",
+    "jobTechnologiesUsed": [
+      "AWS",
+      "Kubernetes",
       "Docker",
-      "Terraform",
-      "C#",
-      "Vue"
-    ],
-    "glassdoorRating": 4,
-    "requirements": "Sed harum quam tempora voluptatibus nam quo repellat.\nIste aliquid voluptatem deleniti perspiciatis eos vel consectetur impedit sint.\nVeritatis libero perspiciatis provident ratione et accusamus molestias perspiciatis.\nConsequatur tenetur omnis illum ducimus.",
-    "experienceLevel": "Entry",
-    "benefits": "Tempora eos repudiandae est quaerat necessitatibus cumque qui odio. Libero nobis et beatae perspiciatis quae iste sit voluptatibus. Et et qui inventore. Omnis tempore at aperiam temporibus. Repudiandae nulla enim. Minima neque dolor architecto culpa quisquam esse.\n \rHarum doloribus necessitatibus. Et labore incidunt alias dolore nam est debitis ullam repudiandae. Omnis quasi repellat nemo.\n \rId reiciendis perferendis est sequi incidunt eius. Tenetur perspiciatis et. Ipsa reiciendis tempora ducimus et reiciendis recusandae tempora quis.",
-    "funding": "110.47",
-    "investors": [
-      "Octopus Ventures",
-      "Speed Invest",
-      "Triple Point Ventures"
-    ],
-    "jobInvolves": "Et enim cumque eos earum.\nInventore incidunt inventore est laboriosam ut magnam.",
-    "founders": [
-      {
-        "name": "Jennie Lindgren",
-        "job": "Legacy Operations Liaison"
-      },
-      {
-        "name": "Mr. Jennie Bradtke",
-        "job": "Investor Applications Liaison"
-      }
-    ],
-    "articles": [
-      "https://estella.biz",
-      "https://randi.org",
-      "https://obie.biz"
-    ]
-  },
-  {
-    "companyName": "Dooley - Hettinger",
-    "logo": "https://placeimg.com/80/80/animals?62050",
-    "description": "Mollitia quia ut.",
-    "location": "Lefflerside",
-    "companyMission": "Velit iure sit qui qui. Eveniet eum quod modi eligendi adipisci repellat omnis quidem. Reprehenderit suscipit fugit. Esse aperiam qui qui quis et aut.",
-    "technologiesUsed": [
-      "Vue",
       "Jenkins",
-      "Kubernetes",
-      "AWS",
-      "Docker",
-      "Node.js"
-    ],
-    "glassdoorRating": 0,
-    "requirements": "Voluptatibus et earum error delectus labore mollitia eos possimus.\nOfficia eveniet ut perferendis iusto.\nHic omnis repellat at reiciendis delectus earum.\nAssumenda sint et molestiae impedit.",
-    "experienceLevel": "Mid",
-    "benefits": "Est voluptatem deserunt omnis aut quia tempora architecto occaecati nam. Nostrum omnis omnis ab quisquam veritatis dolore non officiis consectetur. Quia dolores sunt voluptatem placeat. Et earum est autem consequatur.\n \rItaque deleniti veniam adipisci repudiandae perferendis quam et voluptates. Illo unde est aut non molestiae. Quos ad occaecati corporis eligendi neque perferendis est. Id quia rerum veritatis et sunt. Consequatur animi fugit excepturi incidunt illo tempora et itaque autem.\n \rNisi facere et quaerat cumque quo aut atque quia. At qui qui molestiae placeat totam non quis. Est iste eligendi. Consequatur et adipisci et ipsam sunt. Fuga cupiditate facilis magnam.",
-    "funding": "752.47",
-    "investors": [
-      "IFG.VC",
-      "Data Point Capital",
-      "Data Point Capital"
-    ],
-    "jobInvolves": "Rerum facere quis eum cumque.\nEveniet similique dolore tempora ut neque odio.\nQuia quasi minima labore eius officia voluptatem aut omnis fugit.\nMaiores harum excepturi autem eligendi aut quia.",
-    "founders": [
-      {
-        "name": "June Williamson",
-        "job": "Senior Brand Coordinator"
-      },
-      {
-        "name": "Lorena Champlin",
-        "job": "Regional Accounts Associate"
-      }
-    ],
-    "articles": [
-      "http://charlie.net",
-      "http://esteban.biz",
-      "https://boris.name"
-    ]
-  },
-  {
-    "companyName": "Bartell, Rau and Beier",
-    "logo": "https://placeimg.com/80/80/animals?90174",
-    "description": "Eaque temporibus cum sint ad animi aspernatur ex.",
-    "location": "North Hilbertberg",
-    "companyMission": "Recusandae qui quibusdam sunt et id. Numquam ut consequatur dolor et doloribus rerum cum qui quos. Ipsam perferendis aliquam ad.",
-    "technologiesUsed": [
-      "Docker",
-      "React",
-      "Kubernetes",
-      "AWS",
-      "C#",
+      "Java",
       "Vue"
     ],
-    "glassdoorRating": 4,
-    "requirements": "Sed sapiente tempora labore.\nAb sed cumque ut.\nSint ipsam non iste provident reprehenderit necessitatibus maxime delectus vitae.\nEt est quo corrupti tempora officiis nobis molestiae.\nTempora hic a placeat.",
-    "experienceLevel": "Junior",
-    "benefits": "Esse nisi nemo maxime repellat consequatur. Necessitatibus quod sed et iusto dolorem. Nostrum totam molestias quasi voluptatum et reprehenderit sint a delectus.\n \rDicta officiis id voluptatem ut quasi dicta aliquam id libero. Et quis adipisci voluptatem quos sint eligendi accusantium. Debitis officia temporibus qui facere debitis enim autem. Repudiandae asperiores dolorum dolorem. Necessitatibus veniam modi esse rem aut alias.\n \rEt non aut et distinctio quo assumenda ut. Iusto voluptatibus quae eos. Accusamus tempore magni dolor quo consequatur consequatur. Sint laborum ab similique maxime eos inventore veniam quia.",
-    "funding": "874.65",
-    "investors": [
+    "jobRequirements": "Fugit modi voluptatem dicta.\nNon distinctio dicta dolores facere.",
+    "jobExperienceLevel": "Senior",
+    "jobInvolves": "Ab sunt maxime minima.\nSint maiores officiis amet a totam necessitatibus aspernatur rerum.",
+    "companyLogo": "https://placeimg.com/80/80/animals?81674",
+    "companyName": "Hegmann, Romaguera and Hansen",
+    "companyDescription": "Perspiciatis aut ut non quia fugit.",
+    "companyLocation": "Lysannefort",
+    "companyMission": "Aut et quo amet doloribus qui. Iusto molestiae aut sequi alias iusto. Nihil qui aperiam.",
+    "companyGlassdoorRating": 4,
+    "companyBenefits": "Cum accusantium voluptatem dolor laboriosam. Quas vel aut. Assumenda magnam et odit consequatur accusantium dicta eligendi. Incidunt doloribus non provident aut a.\n \rQuis cumque soluta incidunt quod laborum. Mollitia hic neque ut veritatis. Porro eum laborum aut officiis et est voluptatem ea. Tenetur modi suscipit non quia distinctio. Quis similique blanditiis atque inventore sed.\n \rEa voluptas quasi ex quis aut. Iure est magni aut. Quidem officiis nisi explicabo et voluptate.",
+    "companyFunding": "223.71",
+    "companyInvestors": [
       "Index Ventures",
-      "Oxford Foundry",
-      "Amadeus Capital"
+      "Triple Point Ventures",
+      "Binomial Ventures"
     ],
-    "jobInvolves": "Sit sint aut esse.\nQui fugit beatae non dolor optio.",
-    "founders": [
+    "companyFounders": [
       {
-        "name": "Gilbert Schultz",
-        "job": "District Operations Designer"
+        "name": "Dean VonRueden",
+        "job": "Customer Assurance Architect"
       },
       {
-        "name": "Ms. Hubert Macejkovic",
-        "job": "Forward Interactions Architect"
+        "name": "Archie Pouros",
+        "job": "Senior Implementation Analyst"
       }
     ],
-    "articles": [
-      "https://marta.name",
-      "https://petra.net",
-      "http://rosella.info"
-    ]
-  },
-  {
-    "companyName": "Rath - Williamson",
-    "logo": "https://placeimg.com/80/80/animals?64308",
-    "description": "Sapiente minus et et magnam provident.",
-    "location": "Lake Forest",
-    "companyMission": "Est eaque inventore debitis aut quia perspiciatis nisi. Deleniti dolores iure. Et corrupti quas. Quo error est architecto autem asperiores et quisquam. Praesentium perferendis nulla laudantium inventore ab qui.",
-    "technologiesUsed": [
-      "Vue",
-      "Kubernetes",
-      "React",
-      "Node.js",
-      "React",
-      "C#"
-    ],
-    "glassdoorRating": 1,
-    "requirements": "Magni ullam magni deleniti.\nQuasi repellat temporibus debitis dolores facilis odit et odit et.\nBlanditiis delectus porro.",
-    "experienceLevel": "Expert",
-    "benefits": "Molestiae at eum dicta adipisci ad quaerat. Quam ab totam reiciendis voluptatem esse aut non hic ea. Fuga quia dolore molestias sunt magnam nulla. Voluptas rerum blanditiis non ut illum numquam. Molestiae aspernatur enim dolorum eaque dignissimos quis perspiciatis deserunt ut.\n \rQuam enim voluptates iusto iste quasi praesentium. Qui consectetur nesciunt in porro voluptatem est quos. Et amet et et. Animi et vel id deleniti sint. Non et qui aut possimus odio non ut at fuga.\n \rIste et ullam delectus earum. Rem sit incidunt quisquam voluptatem est sapiente neque aspernatur. Natus possimus et eum sunt ducimus laboriosam eligendi eum. Omnis qui est sint blanditiis voluptatem dicta a quia.",
-    "funding": "4.31",
-    "investors": [
-      "Binomial Ventures",
-      "Data Point Capital",
-      "Data Point Capital"
-    ],
-    "jobInvolves": "Molestias similique laborum natus ab ut consequuntur explicabo.",
-    "founders": [
-      {
-        "name": "Lucy Ledner I",
-        "job": "District Division Administrator"
-      },
-      {
-        "name": "Jo Beer",
-        "job": "Corporate Metrics Technician"
-      }
-    ],
-    "articles": [
-      "http://osvaldo.name",
-      "http://wilhelm.biz",
-      "https://sheila.com"
+    "companyArticles": [
+      "http://armando.com",
+      "https://hazel.name",
+      "http://zelda.org"
     ]
   }
 ]

@@ -1,5 +1,17 @@
 const faker = require("faker");
 const fs = require("fs");
+const { randomise } = require("./randomise");
+
+const jobTitles = [
+  "Sowftware Engineer",
+  "Frontend Engineer",
+  "Backend Developer",
+  "Core Backend Infra - Ruby",
+  "Core Backend - Nodejs",
+  "Frontend React Developer",
+  "Core Platform Frontend (React)",
+  "Frontend Developer (Vue)",
+];
 
 const technologiesList = [
   "Node.js",
@@ -13,6 +25,8 @@ const technologiesList = [
   "Angular",
   "Vue",
   "Jenkins",
+  "Postgres",
+  "GCP",
 ];
 
 const experienceLevels = ["Entry", "Junior", "Mid", "Senior", "Expert"];
@@ -40,36 +54,31 @@ for (let i = 0; i < 20; i++) {
 
   for (let j = 0; j < 6; j++) {
     // console.log("Got here: " + j);
-    technologiesUsed.push(
-      technologiesList[Math.floor(Math.random() * technologiesList.length)]
-    );
+    technologiesUsed.push(randomise(technologiesList));
   }
 
   const investorsInvesting = [];
   for (let j = 0; j < 3; j++) {
     // console.log("Got here: " + j);
-    investorsInvesting.push(
-      investors[Math.floor(Math.random() * investors.length)]
-    );
+    investorsInvesting.push(randomise(investors));
   }
 
   const jobEntry = {
-    companyName: faker.company.companyName(),
-    logo: faker.image.imageUrl(80, 80, "animals", true, true),
-    description: faker.lorem.sentence(),
-    location: faker.address.city(),
-    companyMission: faker.lorem.paragraph(),
-    roleName: faker.name.jobTitle,
-    technologiesUsed,
-    glassdoorRating: Math.round(Math.random() * 5),
-    requirements: faker.lorem.lines(),
-    experienceLevel:
-      experienceLevels[Math.floor(Math.random() * experienceLevels.length)],
-    benefits: faker.lorem.paragraphs(),
-    funding: faker.finance.amount(),
-    investors: investorsInvesting,
+    jobTitle: randomise(jobTitles),
+    jobTechnologiesUsed: technologiesUsed,
+    jobRequirements: faker.lorem.lines(),
+    jobExperienceLevel: randomise(experienceLevels),
     jobInvolves: faker.lorem.lines(),
-    founders: [
+    companyLogo: faker.image.imageUrl(80, 80, "animals", true, true),
+    companyName: faker.company.companyName(),
+    companyDescription: faker.lorem.sentence(),
+    companyLocation: faker.address.city(),
+    companyMission: faker.lorem.paragraph(),
+    companyGlassdoorRating: Math.round(Math.random() * 5),
+    companyBenefits: faker.lorem.paragraphs(),
+    companyFunding: faker.finance.amount(),
+    companyInvestors: investorsInvesting,
+    companyFounders: [
       {
         name: faker.name.findName(),
         job: faker.name.jobTitle(),
@@ -79,7 +88,7 @@ for (let i = 0; i < 20; i++) {
         job: faker.name.jobTitle(),
       },
     ],
-    articles: [
+    companyArticles: [
       faker.internet.url(),
       faker.internet.url(),
       faker.internet.url(),
