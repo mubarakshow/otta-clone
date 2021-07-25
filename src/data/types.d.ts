@@ -22,6 +22,7 @@ export interface JobInterface {
   companyInvestors?: Array<string>;
   companyFounders?: Array<Founder>;
   companyArticles?: Array<string>;
+  companyIndustries?: Array<string>;
 }
 
 // export type JobProfileProps = Pick<

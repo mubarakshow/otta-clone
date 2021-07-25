@@ -5,7 +5,7 @@ const Layout: React.FC = ({ children }) => {
   return (
     <>
       <Header />
-      <div className="px-32 py-10">{children}</div>
+      <div className="sm:px-32 sm:py-10">{children}</div>
     </>
   );
 };

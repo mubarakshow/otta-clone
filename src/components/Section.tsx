@@ -1,6 +1,6 @@
 import React from "react";
 
-const Section: React.FC<{ title: string }> = ({ title, children }) => {
+const Section: React.FC<{ title?: string }> = ({ title, children }) => {
   return (
     <section className="py-3">
       <h2 className="font-semibold">{title}</h2>

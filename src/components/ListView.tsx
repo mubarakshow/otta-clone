@@ -2,7 +2,7 @@ import React from "react";
 
 interface ListViewProps {
   title?: string;
-  data: Array<string>;
+  data?: Array<string>;
 }
 
 const ListView: React.FC<ListViewProps> = ({ title, data }) => {

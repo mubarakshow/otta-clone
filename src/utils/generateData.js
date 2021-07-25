@@ -46,9 +46,21 @@ const investors = [
   "Octopus Ventures",
 ];
 
+const industries = [
+  "Enterprise",
+  "SaaS",
+  "Cloud computing",
+  "Fintech",
+  "AI",
+  "ML",
+  "B2C",
+  "eCommerce",
+  "Marketplace",
+];
+
 const data = [];
 
-for (let i = 0; i < 20; i++) {
+for (let i = 0; i < 7; i++) {
   const technologiesUsed = [];
   // console.log("Got here: " + i);
 
@@ -61,6 +73,11 @@ for (let i = 0; i < 20; i++) {
   for (let j = 0; j < 3; j++) {
     // console.log("Got here: " + j);
     investorsInvesting.push(randomise(investors));
+  }
+
+  const companyIndustries = [];
+  for (let j = 0; j < 3; j++) {
+    companyIndustries.push(randomise(industries));
   }
 
   const jobEntry = {
@@ -78,6 +95,7 @@ for (let i = 0; i < 20; i++) {
     companyBenefits: faker.lorem.paragraphs(),
     companyFunding: faker.finance.amount(),
     companyInvestors: investorsInvesting,
+    companyIndustries,
     companyFounders: [
       {
         name: faker.name.findName(),
@@ -98,4 +116,4 @@ for (let i = 0; i < 20; i++) {
   data.push(jobEntry);
 }
 
-fs.writeFileSync("../src/data/jobs.json", JSON.stringify(data, null, 2));
+fs.writeFileSync("../data/jobs.json", JSON.stringify(data, null, 2));
