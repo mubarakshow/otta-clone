@@ -1,20 +1,14 @@
 import React, { useEffect } from "react";
-import { useParams } from "react-router-dom";
 import Layout from "../../components/Layout";
 import Job from "./job";
 import jobs from "../../data/jobs.json";
+// import { useParams } from "react-router-dom";
 
-import {
-  CarouselProvider,
-  Slider,
-  Slide,
-  ButtonBack,
-  ButtonNext,
-} from "pure-react-carousel";
+import { CarouselProvider, Slider, Slide } from "pure-react-carousel";
 import "pure-react-carousel/dist/react-carousel.es.css";
 
 const Jobs: React.FC = () => {
-  const { pageId } = useParams<{ pageId: string }>();
+  // const { pageId } = useParams<{ pageId: string }>();
 
   useEffect(() => {}, []);
 
@@ -40,8 +34,6 @@ const Jobs: React.FC = () => {
             </div>
           </Slide>
         </Slider>
-        <ButtonBack>Back</ButtonBack>
-        <ButtonNext>Next</ButtonNext>
       </CarouselProvider>
     </Layout>
   );
