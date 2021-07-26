@@ -7,17 +7,22 @@ import { JobInterface } from "../../data/types";
 import { getUniqueArrayItems } from "../../utils/getUniqueArrayItems";
 
 export const JobProfile: React.FC<{ data: JobInterface }> = ({ data }) => {
+  const experienceLevels = ["Entry", "Junior", "Mid", "Senior", "Expert"];
+
   return (
-    <div className="hidden sm:block p-5">
+    <div className="hidden md:block p-5">
       <div className="bg-gray-50 px-4 py-3 rounded-2xl">
         {/* job basic info */}
         <Section title="">
-          <h2 className="font-bold">{data.jobTitle}</h2>
+          <h2 className="font-bold text-lg text-center">{data.jobTitle}</h2>
         </Section>
 
         {/* job tech used */}
-        <Section title="Technologies Used">
-          <div className="flex">
+        <Section>
+          <p className="uppercase font-extralight mb-7 text-sm text-center text-gray-600">
+            Technologies Used
+          </p>
+          <div className="grid grid-flow-col auto-cols-max gap-2 items-center justify-center">
             {getUniqueArrayItems(data.jobTechnologiesUsed)?.map((tech, i) => (
               <Chip key={i} text={tech} />
             ))}
@@ -25,8 +30,24 @@ export const JobProfile: React.FC<{ data: JobInterface }> = ({ data }) => {
         </Section>
 
         {/* experience level */}
-        <Section title="Experience Level">
-          <h2>{data.jobExperienceLevel}</h2>
+        <Section center>
+          <p className="uppercase font-extralight mb-7 text-sm text-center text-gray-600">
+            Experience Level
+          </p>
+          {experienceLevels && (
+            <div className="flex justify-around max-w-md">
+              {experienceLevels.map((level, i) => (
+                <div key={i} className="w-16">
+                  <p>{level}</p>
+                  <hr
+                    className={`mt-3 border-4 border-gray-100 rounded-3xl ${
+                      level === data.jobExperienceLevel ? "border-gray-300" : ""
+                    }`}
+                  />
+                </div>
+              ))}
+            </div>
+          )}
         </Section>
 
         {/* job requirements */}

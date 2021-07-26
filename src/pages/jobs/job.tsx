@@ -9,7 +9,7 @@ import { JobInterface } from "../../data/types";
 const Job: React.FC<{ data: JobInterface }> = ({ data }) => {
   return (
     // <div></div>
-    <div className="grid sm:grid-cols-2 mx-10 py-3 bg-white rounded-2xl overflow-hidden shadow-sm">
+    <div className="grid md:grid-cols-2 md:mx-10 md:py-3 bg-white rounded-2xl overflow-hidden shadow-sm">
       <CompanyProfile data={data} />
       <JobProfile data={data} />
     </div>

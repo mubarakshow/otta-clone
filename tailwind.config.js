@@ -19,7 +19,11 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      borderWidth: ["first", "last"],
+      borderRadius: ["first", "last"],
+      backgroundColor: ["first", "last"],
+    },
   },
   plugins: [],
 };

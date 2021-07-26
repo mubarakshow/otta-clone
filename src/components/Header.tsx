@@ -26,8 +26,8 @@ const links: ILink[] = [
 
 const Header: React.FC = () => {
   return (
-    <div className="flex justify-between md:flex-row-reverse p-4 bg-white">
-      <div className="space-x-7 items-center">
+    <div className="flex justify-between items-center md:flex-row-reverse px-2 md:px-10 py-4 bg-white">
+      <div className="space-x-4 items-center">
         {links.map(({ to, children, exact }, i) => (
           <Nav key={i} exact={exact} to={to} children={children} />
         ))}
