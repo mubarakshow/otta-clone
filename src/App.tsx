@@ -1,5 +1,5 @@
 import React from "react";
-import { Switch, Route, Redirect } from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 import Home from "./pages/home";
 import Inbox from "./pages/inbox";
 import Jobs from "./pages/jobs";
@@ -11,8 +11,7 @@ function App() {
       <Route exact path="/">
         <Home />
       </Route>
-      <Redirect exact from="/jobs" to="/jobs/page-1" />
-      <Route path="/jobs/page-:pageId">
+      <Route path="/jobs">
         <Jobs />
       </Route>
       <Route path="/profile">

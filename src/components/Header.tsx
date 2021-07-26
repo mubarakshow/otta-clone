@@ -19,7 +19,7 @@ export const Nav: React.FC<ILink> = ({ to, children, exact }) => {
 
 const links: ILink[] = [
   { to: "/", children: "Home", exact: true },
-  { to: "/jobs/page-1", children: "Jobs" },
+  { to: "/jobs", children: "Jobs" },
   { to: "/profile", children: "Profile" },
   { to: "/inbox", children: "Inbox" },
 ];
