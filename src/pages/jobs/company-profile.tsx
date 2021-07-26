@@ -35,7 +35,7 @@ export const CompanyProfile: React.FC<{ data: JobInterface }> = ({ data }) => {
         {/* company highlights - (glassdoor rating, etc..) */}
         <Section center>
           <p className="uppercase font-extralight mb-7 text-sm text-center text-gray-600">
-            Technologies Used
+            Highlights
           </p>
           <div className="inline-flex items-center justify-center gap-2 bg-gray-200 px-4 py-1 rounded-md">
             <StarIcon width={20} />
