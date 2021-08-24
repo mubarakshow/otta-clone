@@ -64,7 +64,7 @@ for (let i = 0; i < 7; i++) {
   const technologiesUsed = [];
   // console.log("Got here: " + i);
 
-  for (let j = 0; j < 6; j++) {
+  for (let j = 0; j < 4; j++) {
     // console.log("Got here: " + j);
     technologiesUsed.push(randomise(technologiesList));
   }
