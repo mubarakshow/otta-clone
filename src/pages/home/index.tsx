@@ -12,6 +12,7 @@ const Home: React.FC = () => {
           By{" "}
           <a
             target="_blank"
+            rel="noreferrer"
             href="http://linkedin.com/in/mubarak4show"
             className="underline"
           >
@@ -22,6 +23,7 @@ const Home: React.FC = () => {
           Github:{" "}
           <a
             target="_blank"
+            rel="noreferrer"
             href="http://github.com/mubarakshow"
             className="underline"
           >
@@ -32,6 +34,7 @@ const Home: React.FC = () => {
           Twitter:{" "}
           <a
             target="_blank"
+            rel="noreferrer"
             href="http://twitter.com/mubarak4show"
             className="underline"
           >
